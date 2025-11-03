@@ -1,0 +1,3565 @@
+{
+  "per_resume": {
+    "Image_46.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 143,
+        "relevant_months": 143,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_23.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.7,
+        "weighted_score": 0.32999999999999996
+      },
+      "experience": {
+        "total_months": 122,
+        "relevant_months": 122,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.02666666666666667,
+      "component_scores": {
+        "education": 0.32999999999999996,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.4723333333333333,
+      "grade": "B"
+    },
+    "Image_13.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 200,
+        "relevant_months": 200,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.45199999999999996,
+      "grade": "B"
+    },
+    "Image_50.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 165,
+        "relevant_months": 165,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 0.75,
+        "name_accuracy": 1.0,
+        "weighted_score": 0.8
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 0.8,
+        "awards": 0.0
+      },
+      "final_score": 0.432,
+      "grade": "B"
+    },
+    "Image_42.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 0,
+        "relevant_months": 0,
+        "domain_match_score": 0.0,
+        "experience_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.04000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.13199999999999998,
+      "grade": "F"
+    },
+    "Image_15.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 21744,
+        "relevant_months": 21744,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_16.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 223,
+        "relevant_months": 223,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_10.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.12
+      },
+      "experience": {
+        "total_months": 223,
+        "relevant_months": 223,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.024,
+      "component_scores": {
+        "education": 0.12,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.4119999999999999,
+      "grade": "B"
+    },
+    "Image_69.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 90,
+        "relevant_months": 90,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_33.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 0,
+        "relevant_months": 0,
+        "domain_match_score": 0.0,
+        "experience_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.08,
+      "grade": "F"
+    },
+    "Image_61.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.7,
+        "weighted_score": 0.32999999999999996
+      },
+      "experience": {
+        "total_months": 129,
+        "relevant_months": 0,
+        "domain_match_score": 0.3,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.7474999999999999
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.0,
+      "component_scores": {
+        "education": 0.32999999999999996,
+        "experience": 0.7474999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.42325,
+      "grade": "B"
+    },
+    "Image_49.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 118,
+        "relevant_months": 118,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 0.0,
+        "weighted_score": 0.8
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 0.8,
+        "awards": 0.0
+      },
+      "final_score": 0.36,
+      "grade": "C"
+    },
+    "Image_9.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 165,
+        "relevant_months": 165,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 1,
+        "weighted_score": 0.2
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.025,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.2
+      },
+      "final_score": 0.45699999999999996,
+      "grade": "B"
+    },
+    "Image_18.jpg": {
+      "education": {
+        "gpa_score": 0.95,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.715
+      },
+      "experience": {
+        "total_months": 141,
+        "relevant_months": 0,
+        "domain_match_score": 0.3,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.7474999999999999
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.0,
+      "component_scores": {
+        "education": 0.715,
+        "experience": 0.7474999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.53875,
+      "grade": "B"
+    },
+    "Image_51.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 119,
+        "relevant_months": 119,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.04000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.43199999999999994,
+      "grade": "B"
+    },
+    "Image_72.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 89,
+        "relevant_months": 89,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.04000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.43199999999999994,
+      "grade": "B"
+    },
+    "Image_38.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 134,
+        "relevant_months": 134,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_76.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.7,
+        "weighted_score": 0.32999999999999996
+      },
+      "experience": {
+        "total_months": 72,
+        "relevant_months": 0,
+        "domain_match_score": 0.3,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.7474999999999999
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.02666666666666667,
+      "component_scores": {
+        "education": 0.32999999999999996,
+        "experience": 0.7474999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.39658333333333334,
+      "grade": "C"
+    },
+    "Image_66.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 72,
+        "relevant_months": 12,
+        "domain_match_score": 0.5333333333333333,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.8816666666666665
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.005000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 0.8816666666666665,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.4315,
+      "grade": "B"
+    },
+    "Image_35.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 72,
+        "relevant_months": 72,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_8.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 113,
+        "relevant_months": 113,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.013333333333333334,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.45866666666666667,
+      "grade": "B"
+    },
+    "Image_55.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 140,
+        "relevant_months": 0,
+        "domain_match_score": 0.3,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.7474999999999999
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.0,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.7474999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.32425,
+      "grade": "C"
+    },
+    "Image_58.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 83,
+        "relevant_months": 23,
+        "domain_match_score": 0.5333333333333333,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.8816666666666665
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.005000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 0.8816666666666665,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.4315,
+      "grade": "B"
+    },
+    "Image_65.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 0,
+        "relevant_months": 0,
+        "domain_match_score": 0.0,
+        "experience_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.15199999999999997,
+      "grade": "D"
+    },
+    "Image_31.jpg": {
+      "education": {
+        "gpa_score": 0.95,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.715
+      },
+      "experience": {
+        "total_months": 141,
+        "relevant_months": 0,
+        "domain_match_score": 0.3,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.7474999999999999
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.0,
+      "component_scores": {
+        "education": 0.715,
+        "experience": 0.7474999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.53875,
+      "grade": "B"
+    },
+    "Image_63.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 152,
+        "relevant_months": 152,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_36.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 0,
+        "relevant_months": 0,
+        "domain_match_score": 0.0,
+        "experience_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.04000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.13199999999999998,
+      "grade": "F"
+    },
+    "Image_67.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.7,
+        "weighted_score": 0.32999999999999996
+      },
+      "experience": {
+        "total_months": 129,
+        "relevant_months": 0,
+        "domain_match_score": 0.3,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.7474999999999999
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.0,
+      "component_scores": {
+        "education": 0.32999999999999996,
+        "experience": 0.7474999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.42325,
+      "grade": "B"
+    },
+    "Image_57.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 152,
+        "relevant_months": 152,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_27.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 259,
+        "relevant_months": 259,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_53.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 12,
+        "relevant_months": 0,
+        "domain_match_score": 0.3,
+        "experience_bonus": 0.0,
+        "weighted_score": 0.25
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 0.7916666666666666,
+        "name_accuracy": 1.0,
+        "weighted_score": 0.8333333333333334
+      },
+      "missing_penalty": 0.0,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.25,
+        "publications": 0.0,
+        "coherence": 0.8333333333333334,
+        "awards": 0.0
+      },
+      "final_score": 0.15833333333333333,
+      "grade": "D"
+    },
+    "Image_30.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.3,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.18
+      },
+      "experience": {
+        "total_months": 0,
+        "relevant_months": 0,
+        "domain_match_score": 0.0,
+        "experience_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.05333333333333334,
+      "component_scores": {
+        "education": 0.18,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.10066666666666665,
+      "grade": "F"
+    },
+    "Image_30.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.8,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.28
+      },
+      "experience": {
+        "total_months": 188,
+        "relevant_months": 188,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.016,
+      "component_scores": {
+        "education": 0.28,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.46799999999999997,
+      "grade": "B"
+    },
+    "Image_23.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 36,
+        "relevant_months": 36,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.9199999999999999
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.04000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 0.9199999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.4079999999999999,
+      "grade": "B"
+    },
+    "Image_48.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 69,
+        "relevant_months": 69,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.04000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.43199999999999994,
+      "grade": "B"
+    },
+    "Image_50.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 119,
+        "relevant_months": 119,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_26.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 92,
+        "relevant_months": 92,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.04000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.43199999999999994,
+      "grade": "B"
+    },
+    "Image_65.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 154,
+        "relevant_months": 154,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.05,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.35000000000000003,
+      "grade": "C"
+    },
+    "Image_74.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 113,
+        "relevant_months": 113,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.04000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.43199999999999994,
+      "grade": "B"
+    },
+    "Image_20.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 36,
+        "relevant_months": 36,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.9199999999999999
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.04000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 0.9199999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.4079999999999999,
+      "grade": "B"
+    },
+    "Image_42.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 72,
+        "relevant_months": 72,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_58.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 19,
+        "relevant_months": 0,
+        "domain_match_score": 0.3,
+        "experience_bonus": 0.0,
+        "weighted_score": 0.30833333333333335
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.010000000000000002,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.30833333333333335,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.1825,
+      "grade": "D"
+    },
+    "Image_21.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 108,
+        "relevant_months": 108,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 0.0,
+        "weighted_score": 0.8
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 0.8,
+        "awards": 0.0
+      },
+      "final_score": 0.36,
+      "grade": "C"
+    },
+    "Image_68.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 119,
+        "relevant_months": 119,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 0.0,
+        "weighted_score": 0.8
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 0.8,
+        "awards": 0.0
+      },
+      "final_score": 0.36,
+      "grade": "C"
+    },
+    "Image_56.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 72,
+        "relevant_months": 12,
+        "domain_match_score": 0.5333333333333333,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.8816666666666665
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.005000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 0.8816666666666665,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.4315,
+      "grade": "B"
+    },
+    "Image_35.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 72,
+        "relevant_months": 12,
+        "domain_match_score": 0.5333333333333333,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.8816666666666665
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.005000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 0.8816666666666665,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.4315,
+      "grade": "B"
+    },
+    "Image_16.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 37272,
+        "relevant_months": 37272,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.38,
+      "grade": "C"
+    },
+    "Image_62.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 0,
+        "relevant_months": 0,
+        "domain_match_score": 0.0,
+        "experience_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.0,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.1,
+      "grade": "F"
+    },
+    "Image_22.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 8,
+        "relevant_months": 8,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.0,
+        "weighted_score": 0.5666666666666667
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.020000000000000004,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.5666666666666667,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.25,
+      "grade": "C"
+    },
+    "Image_25.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.6,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.24
+      },
+      "experience": {
+        "total_months": 86,
+        "relevant_months": 86,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.04000000000000001,
+      "component_scores": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.43199999999999994,
+      "grade": "B"
+    },
+    "Image_52.jpg": {
+      "education": {
+        "gpa_score": 0.9625,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.4,
+        "weighted_score": 0.6012500000000001
+      },
+      "experience": {
+        "total_months": 223,
+        "relevant_months": 223,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.024,
+      "component_scores": {
+        "education": 0.6012500000000001,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.556375,
+      "grade": "B"
+    },
+    "Image_61.jpg": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 154,
+        "relevant_months": 154,
+        "domain_match_score": 1.0,
+        "experience_bonus": 0.15,
+        "weighted_score": 1.0
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.05,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.35000000000000003,
+      "grade": "C"
+    },
+    "Image_60.png": {
+      "education": {
+        "gpa_score": 0.0,
+        "degree_level_score": 0.0,
+        "university_tier_score": 0.0,
+        "weighted_score": 0.0
+      },
+      "experience": {
+        "total_months": 168,
+        "relevant_months": 0,
+        "domain_match_score": 0.3,
+        "experience_bonus": 0.15,
+        "weighted_score": 0.7474999999999999
+      },
+      "publications": {
+        "count": 0,
+        "if_score": 0.0,
+        "author_position_score": 0.0,
+        "venue_quality_score": 0.0,
+        "first_author_bonus": 0.0,
+        "weighted_score": 0.0
+      },
+      "awards": {
+        "count": 0,
+        "weighted_score": 0.0
+      },
+      "coherence": {
+        "section_coherence": 1.0,
+        "name_accuracy": 1.0,
+        "weighted_score": 1.0
+      },
+      "missing_penalty": 0.0,
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.7474999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards": 0.0
+      },
+      "final_score": 0.32425,
+      "grade": "C"
+    }
+  },
+  "aggregate": {
+    "education": [
+      0.0,
+      0.32999999999999996,
+      0.24,
+      0.24,
+      0.24,
+      0.0,
+      0.0,
+      0.12,
+      0.0,
+      0.0,
+      0.32999999999999996,
+      0.0,
+      0.24,
+      0.715,
+      0.24,
+      0.24,
+      0.0,
+      0.32999999999999996,
+      0.24,
+      0.0,
+      0.24,
+      0.0,
+      0.24,
+      0.24,
+      0.715,
+      0.0,
+      0.24,
+      0.32999999999999996,
+      0.0,
+      0.0,
+      0.0,
+      0.18,
+      0.28,
+      0.24,
+      0.24,
+      0.0,
+      0.24,
+      0.0,
+      0.24,
+      0.24,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.24,
+      0.24,
+      0.0,
+      0.0,
+      0.0,
+      0.24,
+      0.6012500000000001,
+      0.0,
+      0.0
+    ],
+    "experience": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.7474999999999999,
+      1.0,
+      1.0,
+      0.7474999999999999,
+      1.0,
+      1.0,
+      1.0,
+      0.7474999999999999,
+      0.8816666666666665,
+      1.0,
+      1.0,
+      0.7474999999999999,
+      0.8816666666666665,
+      0.0,
+      0.7474999999999999,
+      1.0,
+      0.0,
+      0.7474999999999999,
+      1.0,
+      1.0,
+      0.25,
+      0.0,
+      1.0,
+      0.9199999999999999,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9199999999999999,
+      1.0,
+      0.30833333333333335,
+      1.0,
+      1.0,
+      0.8816666666666665,
+      0.8816666666666665,
+      1.0,
+      0.0,
+      0.5666666666666667,
+      1.0,
+      1.0,
+      1.0,
+      0.7474999999999999
+    ],
+    "publications": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "awards": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.2,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "coherence": [
+      1.0,
+      1.0,
+      1.0,
+      0.8,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.8,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.8333333333333334,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.8,
+      0.8,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "final_scores": [
+      0.38,
+      0.4723333333333333,
+      0.45199999999999996,
+      0.432,
+      0.13199999999999998,
+      0.38,
+      0.38,
+      0.4119999999999999,
+      0.38,
+      0.08,
+      0.42325,
+      0.36,
+      0.45699999999999996,
+      0.53875,
+      0.43199999999999994,
+      0.43199999999999994,
+      0.38,
+      0.39658333333333334,
+      0.4315,
+      0.38,
+      0.45866666666666667,
+      0.32425,
+      0.4315,
+      0.15199999999999997,
+      0.53875,
+      0.38,
+      0.13199999999999998,
+      0.42325,
+      0.38,
+      0.38,
+      0.15833333333333333,
+      0.10066666666666665,
+      0.46799999999999997,
+      0.4079999999999999,
+      0.43199999999999994,
+      0.38,
+      0.43199999999999994,
+      0.35000000000000003,
+      0.43199999999999994,
+      0.4079999999999999,
+      0.38,
+      0.1825,
+      0.36,
+      0.36,
+      0.4315,
+      0.4315,
+      0.38,
+      0.1,
+      0.25,
+      0.43199999999999994,
+      0.556375,
+      0.35000000000000003,
+      0.32425
+    ],
+    "education_avg": 0.1602122641509434,
+    "experience_avg": 0.8061163522012579,
+    "publications_avg": 0.0,
+    "awards_avg": 0.0037735849056603774,
+    "coherence_avg": 0.9817610062893082,
+    "final_scores_avg": 0.36677279874213836
+  },
+  "rankings": [
+    [
+      "Image_52.jpg",
+      0.556375,
+      "B"
+    ],
+    [
+      "Image_18.jpg",
+      0.53875,
+      "B"
+    ],
+    [
+      "Image_31.jpg",
+      0.53875,
+      "B"
+    ],
+    [
+      "Image_23.png",
+      0.4723333333333333,
+      "B"
+    ],
+    [
+      "Image_30.png",
+      0.46799999999999997,
+      "B"
+    ],
+    [
+      "Image_8.jpg",
+      0.45866666666666667,
+      "B"
+    ],
+    [
+      "Image_9.png",
+      0.45699999999999996,
+      "B"
+    ],
+    [
+      "Image_13.png",
+      0.45199999999999996,
+      "B"
+    ],
+    [
+      "Image_50.png",
+      0.432,
+      "B"
+    ],
+    [
+      "Image_51.jpg",
+      0.43199999999999994,
+      "B"
+    ],
+    [
+      "Image_72.jpg",
+      0.43199999999999994,
+      "B"
+    ],
+    [
+      "Image_48.jpg",
+      0.43199999999999994,
+      "B"
+    ],
+    [
+      "Image_26.jpg",
+      0.43199999999999994,
+      "B"
+    ],
+    [
+      "Image_74.jpg",
+      0.43199999999999994,
+      "B"
+    ],
+    [
+      "Image_25.jpg",
+      0.43199999999999994,
+      "B"
+    ],
+    [
+      "Image_66.png",
+      0.4315,
+      "B"
+    ],
+    [
+      "Image_58.png",
+      0.4315,
+      "B"
+    ],
+    [
+      "Image_56.png",
+      0.4315,
+      "B"
+    ],
+    [
+      "Image_35.png",
+      0.4315,
+      "B"
+    ],
+    [
+      "Image_61.png",
+      0.42325,
+      "B"
+    ],
+    [
+      "Image_67.png",
+      0.42325,
+      "B"
+    ],
+    [
+      "Image_10.jpg",
+      0.4119999999999999,
+      "B"
+    ],
+    [
+      "Image_23.jpg",
+      0.4079999999999999,
+      "B"
+    ],
+    [
+      "Image_20.jpg",
+      0.4079999999999999,
+      "B"
+    ],
+    [
+      "Image_76.jpg",
+      0.39658333333333334,
+      "C"
+    ],
+    [
+      "Image_46.jpg",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_15.jpg",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_16.png",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_69.jpg",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_38.jpg",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_35.jpg",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_63.jpg",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_57.jpg",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_27.jpg",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_50.jpg",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_42.jpg",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_16.jpg",
+      0.38,
+      "C"
+    ],
+    [
+      "Image_49.jpg",
+      0.36,
+      "C"
+    ],
+    [
+      "Image_21.jpg",
+      0.36,
+      "C"
+    ],
+    [
+      "Image_68.jpg",
+      0.36,
+      "C"
+    ],
+    [
+      "Image_65.jpg",
+      0.35000000000000003,
+      "C"
+    ],
+    [
+      "Image_61.jpg",
+      0.35000000000000003,
+      "C"
+    ],
+    [
+      "Image_55.jpg",
+      0.32425,
+      "C"
+    ],
+    [
+      "Image_60.png",
+      0.32425,
+      "C"
+    ],
+    [
+      "Image_22.png",
+      0.25,
+      "C"
+    ],
+    [
+      "Image_58.jpg",
+      0.1825,
+      "D"
+    ],
+    [
+      "Image_53.jpg",
+      0.15833333333333333,
+      "D"
+    ],
+    [
+      "Image_65.png",
+      0.15199999999999997,
+      "D"
+    ],
+    [
+      "Image_42.png",
+      0.13199999999999998,
+      "F"
+    ],
+    [
+      "Image_36.png",
+      0.13199999999999998,
+      "F"
+    ],
+    [
+      "Image_30.jpg",
+      0.10066666666666665,
+      "F"
+    ],
+    [
+      "Image_62.png",
+      0.1,
+      "F"
+    ],
+    [
+      "Image_33.jpg",
+      0.08,
+      "F"
+    ]
+  ],
+  "comparisons": [
+    {
+      "resume_a": {
+        "key": "Image_52.jpg",
+        "name": "Abdirahman Dickinson",
+        "score": 0.556375,
+        "grade": "B"
+      },
+      "resume_b": {
+        "key": "Image_18.jpg",
+        "name": "Travis Hernandez",
+        "score": 0.53875,
+        "grade": "B"
+      },
+      "deltas": {
+        "final_score": {
+          "resume_a": 0.556375,
+          "resume_b": 0.53875,
+          "delta": 0.017625000000000002,
+          "delta_pct": 1.7625000000000002
+        },
+        "education": {
+          "resume_a": 0.6012500000000001,
+          "resume_b": 0.715,
+          "delta": -0.1137499999999999,
+          "weighted_impact": -0.03412499999999997
+        },
+        "experience": {
+          "resume_a": 1.0,
+          "resume_b": 0.7474999999999999,
+          "delta": 0.25250000000000006,
+          "weighted_impact": 0.07575000000000001
+        },
+        "publications": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "coherence": {
+          "resume_a": 1.0,
+          "resume_b": 1.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "awards": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        }
+      },
+      "top_reasons": [
+        {
+          "component": "Experience",
+          "reason": "Stronger work experience (100.0% vs 74.8%): More experience (223 months vs 141 months); Higher domain relevance (100.0% vs 30.0%)",
+          "resume_a_score": 1.0,
+          "resume_b_score": 0.7474999999999999,
+          "weighted_impact": 0.07575000000000001,
+          "evidence_a": [
+            "Sr. DevOps Engineer at Digium Inc (None months)",
+            "DevOps Engineer at Accenture (None months)",
+            "DevOps Engineer at Igate (None months)",
+            "Junior DevOps Engineer at Accenture (None months)"
+          ],
+          "evidence_b": [
+            "Junior DevOps Engineer at Putour (None months) - Software Development",
+            "Middleware Administrator at Helfer (None months) - Banking"
+          ],
+          "highlights": [
+            "More experience (223 months vs 141 months)",
+            "Higher domain relevance (100.0% vs 30.0%)"
+          ]
+        },
+        {
+          "component": "Education",
+          "reason": "Superior education credentials (60.1% vs 71.5%): Higher GPA score (96.2% vs 95.0%)",
+          "resume_a_score": 0.6012500000000001,
+          "resume_b_score": 0.715,
+          "weighted_impact": -0.03412499999999997,
+          "evidence_a": [
+            "None in None from University of Richmond (GPA: 3.85)"
+          ],
+          "evidence_b": [
+            "B.S. in Computer Science from Berkeley (GPA: 38)"
+          ],
+          "highlights": [
+            "Higher GPA score (96.2% vs 95.0%)"
+          ]
+        }
+      ]
+    },
+    {
+      "resume_a": {
+        "key": "Image_52.jpg",
+        "name": "Abdirahman Dickinson",
+        "score": 0.556375,
+        "grade": "B"
+      },
+      "resume_b": {
+        "key": "Image_31.jpg",
+        "name": "Travis Hernandez",
+        "score": 0.53875,
+        "grade": "B"
+      },
+      "deltas": {
+        "final_score": {
+          "resume_a": 0.556375,
+          "resume_b": 0.53875,
+          "delta": 0.017625000000000002,
+          "delta_pct": 1.7625000000000002
+        },
+        "education": {
+          "resume_a": 0.6012500000000001,
+          "resume_b": 0.715,
+          "delta": -0.1137499999999999,
+          "weighted_impact": -0.03412499999999997
+        },
+        "experience": {
+          "resume_a": 1.0,
+          "resume_b": 0.7474999999999999,
+          "delta": 0.25250000000000006,
+          "weighted_impact": 0.07575000000000001
+        },
+        "publications": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "coherence": {
+          "resume_a": 1.0,
+          "resume_b": 1.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "awards": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        }
+      },
+      "top_reasons": [
+        {
+          "component": "Experience",
+          "reason": "Stronger work experience (100.0% vs 74.8%): More experience (223 months vs 141 months); Higher domain relevance (100.0% vs 30.0%)",
+          "resume_a_score": 1.0,
+          "resume_b_score": 0.7474999999999999,
+          "weighted_impact": 0.07575000000000001,
+          "evidence_a": [
+            "Sr. DevOps Engineer at Digium Inc (None months)",
+            "DevOps Engineer at Accenture (None months)",
+            "DevOps Engineer at Igate (None months)",
+            "Junior DevOps Engineer at Accenture (None months)"
+          ],
+          "evidence_b": [
+            "Junior DevOps Engineer at Putour (None months) - Software Development",
+            "Middleware Administrator at Helfer (None months) - Banking"
+          ],
+          "highlights": [
+            "More experience (223 months vs 141 months)",
+            "Higher domain relevance (100.0% vs 30.0%)"
+          ]
+        },
+        {
+          "component": "Education",
+          "reason": "Superior education credentials (60.1% vs 71.5%): Higher GPA score (96.2% vs 95.0%)",
+          "resume_a_score": 0.6012500000000001,
+          "resume_b_score": 0.715,
+          "weighted_impact": -0.03412499999999997,
+          "evidence_a": [
+            "None in None from University of Richmond (GPA: 3.85)"
+          ],
+          "evidence_b": [
+            "B.S. in Computer Science from Berkeley (GPA: 38)"
+          ],
+          "highlights": [
+            "Higher GPA score (96.2% vs 95.0%)"
+          ]
+        }
+      ]
+    },
+    {
+      "resume_a": {
+        "key": "Image_52.jpg",
+        "name": "Abdirahman Dickinson",
+        "score": 0.556375,
+        "grade": "B"
+      },
+      "resume_b": {
+        "key": "Image_23.png",
+        "name": "LEBSACK-ORTIZ",
+        "score": 0.4723333333333333,
+        "grade": "B"
+      },
+      "deltas": {
+        "final_score": {
+          "resume_a": 0.556375,
+          "resume_b": 0.4723333333333333,
+          "delta": 0.08404166666666663,
+          "delta_pct": 8.404166666666663
+        },
+        "education": {
+          "resume_a": 0.6012500000000001,
+          "resume_b": 0.32999999999999996,
+          "delta": 0.2712500000000001,
+          "weighted_impact": 0.08137500000000003
+        },
+        "experience": {
+          "resume_a": 1.0,
+          "resume_b": 1.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "publications": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "coherence": {
+          "resume_a": 1.0,
+          "resume_b": 1.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "awards": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        }
+      },
+      "top_reasons": [
+        {
+          "component": "Education",
+          "reason": "Superior education credentials (60.1% vs 33.0%): Higher GPA score (96.2% vs 0.0%)",
+          "resume_a_score": 0.6012500000000001,
+          "resume_b_score": 0.32999999999999996,
+          "weighted_impact": 0.08137500000000003,
+          "evidence_a": [
+            "None in None from University of Richmond (GPA: 3.85)"
+          ],
+          "evidence_b": [
+            "Bachelor's in Computer Science from UNIVERSITY OF MISSOURI-COLUMBIA"
+          ],
+          "highlights": [
+            "Higher GPA score (96.2% vs 0.0%)"
+          ]
+        }
+      ]
+    },
+    {
+      "resume_a": {
+        "key": "Image_52.jpg",
+        "name": "Abdirahman Dickinson",
+        "score": 0.556375,
+        "grade": "B"
+      },
+      "resume_b": {
+        "key": "Image_30.png",
+        "name": null,
+        "score": 0.46799999999999997,
+        "grade": "B"
+      },
+      "deltas": {
+        "final_score": {
+          "resume_a": 0.556375,
+          "resume_b": 0.46799999999999997,
+          "delta": 0.08837499999999998,
+          "delta_pct": 8.837499999999999
+        },
+        "education": {
+          "resume_a": 0.6012500000000001,
+          "resume_b": 0.28,
+          "delta": 0.32125000000000004,
+          "weighted_impact": 0.096375
+        },
+        "experience": {
+          "resume_a": 1.0,
+          "resume_b": 1.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "publications": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "coherence": {
+          "resume_a": 1.0,
+          "resume_b": 1.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "awards": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        }
+      },
+      "top_reasons": [
+        {
+          "component": "Education",
+          "reason": "Superior education credentials (60.1% vs 28.0%): Higher GPA score (96.2% vs 0.0%)",
+          "resume_a_score": 0.6012500000000001,
+          "resume_b_score": 0.28,
+          "weighted_impact": 0.096375,
+          "evidence_a": [
+            "None in None from University of Richmond (GPA: 3.85)"
+          ],
+          "evidence_b": [
+            "Master of Business Administration in None from GROWTHSI BUSINESS SCHOOL",
+            "Bachelor of Engineering in Computer Science from RESUME WORDED UNIVERSITY"
+          ],
+          "highlights": [
+            "Higher GPA score (96.2% vs 0.0%)"
+          ]
+        }
+      ]
+    },
+    {
+      "resume_a": {
+        "key": "Image_18.jpg",
+        "name": "Travis Hernandez",
+        "score": 0.53875,
+        "grade": "B"
+      },
+      "resume_b": {
+        "key": "Image_31.jpg",
+        "name": "Travis Hernandez",
+        "score": 0.53875,
+        "grade": "B"
+      },
+      "deltas": {
+        "final_score": {
+          "resume_a": 0.53875,
+          "resume_b": 0.53875,
+          "delta": 0.0,
+          "delta_pct": 0.0
+        },
+        "education": {
+          "resume_a": 0.715,
+          "resume_b": 0.715,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "experience": {
+          "resume_a": 0.7474999999999999,
+          "resume_b": 0.7474999999999999,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "publications": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "coherence": {
+          "resume_a": 1.0,
+          "resume_b": 1.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "awards": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        }
+      },
+      "top_reasons": []
+    },
+    {
+      "resume_a": {
+        "key": "Image_18.jpg",
+        "name": "Travis Hernandez",
+        "score": 0.53875,
+        "grade": "B"
+      },
+      "resume_b": {
+        "key": "Image_23.png",
+        "name": "LEBSACK-ORTIZ",
+        "score": 0.4723333333333333,
+        "grade": "B"
+      },
+      "deltas": {
+        "final_score": {
+          "resume_a": 0.53875,
+          "resume_b": 0.4723333333333333,
+          "delta": 0.06641666666666662,
+          "delta_pct": 6.641666666666662
+        },
+        "education": {
+          "resume_a": 0.715,
+          "resume_b": 0.32999999999999996,
+          "delta": 0.385,
+          "weighted_impact": 0.11549999999999999
+        },
+        "experience": {
+          "resume_a": 0.7474999999999999,
+          "resume_b": 1.0,
+          "delta": -0.25250000000000006,
+          "weighted_impact": -0.07575000000000001
+        },
+        "publications": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "coherence": {
+          "resume_a": 1.0,
+          "resume_b": 1.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "awards": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        }
+      },
+      "top_reasons": [
+        {
+          "component": "Education",
+          "reason": "Superior education credentials (71.5% vs 33.0%): Higher GPA score (95.0% vs 0.0%)",
+          "resume_a_score": 0.715,
+          "resume_b_score": 0.32999999999999996,
+          "weighted_impact": 0.11549999999999999,
+          "evidence_a": [
+            "B.S. in Computer Science from Berkeley (GPA: 38)"
+          ],
+          "evidence_b": [
+            "Bachelor's in Computer Science from UNIVERSITY OF MISSOURI-COLUMBIA"
+          ],
+          "highlights": [
+            "Higher GPA score (95.0% vs 0.0%)"
+          ]
+        },
+        {
+          "component": "Experience",
+          "reason": "Stronger work experience (74.8% vs 100.0%): More experience (141 months vs 122 months)",
+          "resume_a_score": 0.7474999999999999,
+          "resume_b_score": 1.0,
+          "weighted_impact": -0.07575000000000001,
+          "evidence_a": [
+            "Junior DevOps Engineer at Putour (None months) - Software Development",
+            "Middleware Administrator at Helfer (None months) - Banking"
+          ],
+          "evidence_b": [
+            "Devops Engineer at LEBSACK-ORTIZ (None months)",
+            "Devops Engineer at SCHOWALTER, LEFFLER AND BLOCK (None months)"
+          ],
+          "highlights": [
+            "More experience (141 months vs 122 months)"
+          ]
+        }
+      ]
+    },
+    {
+      "resume_a": {
+        "key": "Image_18.jpg",
+        "name": "Travis Hernandez",
+        "score": 0.53875,
+        "grade": "B"
+      },
+      "resume_b": {
+        "key": "Image_30.png",
+        "name": null,
+        "score": 0.46799999999999997,
+        "grade": "B"
+      },
+      "deltas": {
+        "final_score": {
+          "resume_a": 0.53875,
+          "resume_b": 0.46799999999999997,
+          "delta": 0.07074999999999998,
+          "delta_pct": 7.0749999999999975
+        },
+        "education": {
+          "resume_a": 0.715,
+          "resume_b": 0.28,
+          "delta": 0.43499999999999994,
+          "weighted_impact": 0.13049999999999998
+        },
+        "experience": {
+          "resume_a": 0.7474999999999999,
+          "resume_b": 1.0,
+          "delta": -0.25250000000000006,
+          "weighted_impact": -0.07575000000000001
+        },
+        "publications": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "coherence": {
+          "resume_a": 1.0,
+          "resume_b": 1.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "awards": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        }
+      },
+      "top_reasons": [
+        {
+          "component": "Education",
+          "reason": "Superior education credentials (71.5% vs 28.0%): Higher GPA score (95.0% vs 0.0%)",
+          "resume_a_score": 0.715,
+          "resume_b_score": 0.28,
+          "weighted_impact": 0.13049999999999998,
+          "evidence_a": [
+            "B.S. in Computer Science from Berkeley (GPA: 38)"
+          ],
+          "evidence_b": [
+            "Master of Business Administration in None from GROWTHSI BUSINESS SCHOOL",
+            "Bachelor of Engineering in Computer Science from RESUME WORDED UNIVERSITY"
+          ],
+          "highlights": [
+            "Higher GPA score (95.0% vs 0.0%)"
+          ]
+        },
+        {
+          "component": "Experience",
+          "reason": "Stronger work experience (74.8% vs 100.0%)",
+          "resume_a_score": 0.7474999999999999,
+          "resume_b_score": 1.0,
+          "weighted_impact": -0.07575000000000001,
+          "evidence_a": [
+            "Junior DevOps Engineer at Putour (None months) - Software Development",
+            "Middleware Administrator at Helfer (None months) - Banking"
+          ],
+          "evidence_b": [
+            "DevOps Manager at RESUME WORDED (None months)",
+            "DevOps Lead at GROWTHSI (None months)",
+            "Infrastructure Manager at GROWTHSI (None months)"
+          ],
+          "highlights": []
+        }
+      ]
+    },
+    {
+      "resume_a": {
+        "key": "Image_31.jpg",
+        "name": "Travis Hernandez",
+        "score": 0.53875,
+        "grade": "B"
+      },
+      "resume_b": {
+        "key": "Image_23.png",
+        "name": "LEBSACK-ORTIZ",
+        "score": 0.4723333333333333,
+        "grade": "B"
+      },
+      "deltas": {
+        "final_score": {
+          "resume_a": 0.53875,
+          "resume_b": 0.4723333333333333,
+          "delta": 0.06641666666666662,
+          "delta_pct": 6.641666666666662
+        },
+        "education": {
+          "resume_a": 0.715,
+          "resume_b": 0.32999999999999996,
+          "delta": 0.385,
+          "weighted_impact": 0.11549999999999999
+        },
+        "experience": {
+          "resume_a": 0.7474999999999999,
+          "resume_b": 1.0,
+          "delta": -0.25250000000000006,
+          "weighted_impact": -0.07575000000000001
+        },
+        "publications": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "coherence": {
+          "resume_a": 1.0,
+          "resume_b": 1.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "awards": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        }
+      },
+      "top_reasons": [
+        {
+          "component": "Education",
+          "reason": "Superior education credentials (71.5% vs 33.0%): Higher GPA score (95.0% vs 0.0%)",
+          "resume_a_score": 0.715,
+          "resume_b_score": 0.32999999999999996,
+          "weighted_impact": 0.11549999999999999,
+          "evidence_a": [
+            "B.S. in Computer Science from Berkeley (GPA: 38)"
+          ],
+          "evidence_b": [
+            "Bachelor's in Computer Science from UNIVERSITY OF MISSOURI-COLUMBIA"
+          ],
+          "highlights": [
+            "Higher GPA score (95.0% vs 0.0%)"
+          ]
+        },
+        {
+          "component": "Experience",
+          "reason": "Stronger work experience (74.8% vs 100.0%): More experience (141 months vs 122 months)",
+          "resume_a_score": 0.7474999999999999,
+          "resume_b_score": 1.0,
+          "weighted_impact": -0.07575000000000001,
+          "evidence_a": [
+            "Junior DevOps Engineer at Putour (None months) - Software Development",
+            "Middleware Administrator at Helfer (None months) - Banking"
+          ],
+          "evidence_b": [
+            "Devops Engineer at LEBSACK-ORTIZ (None months)",
+            "Devops Engineer at SCHOWALTER, LEFFLER AND BLOCK (None months)"
+          ],
+          "highlights": [
+            "More experience (141 months vs 122 months)"
+          ]
+        }
+      ]
+    },
+    {
+      "resume_a": {
+        "key": "Image_31.jpg",
+        "name": "Travis Hernandez",
+        "score": 0.53875,
+        "grade": "B"
+      },
+      "resume_b": {
+        "key": "Image_30.png",
+        "name": null,
+        "score": 0.46799999999999997,
+        "grade": "B"
+      },
+      "deltas": {
+        "final_score": {
+          "resume_a": 0.53875,
+          "resume_b": 0.46799999999999997,
+          "delta": 0.07074999999999998,
+          "delta_pct": 7.0749999999999975
+        },
+        "education": {
+          "resume_a": 0.715,
+          "resume_b": 0.28,
+          "delta": 0.43499999999999994,
+          "weighted_impact": 0.13049999999999998
+        },
+        "experience": {
+          "resume_a": 0.7474999999999999,
+          "resume_b": 1.0,
+          "delta": -0.25250000000000006,
+          "weighted_impact": -0.07575000000000001
+        },
+        "publications": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "coherence": {
+          "resume_a": 1.0,
+          "resume_b": 1.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        },
+        "awards": {
+          "resume_a": 0.0,
+          "resume_b": 0.0,
+          "delta": 0.0,
+          "weighted_impact": 0.0
+        }
+      },
+      "top_reasons": [
+        {
+          "component": "Education",
+          "reason": "Superior education credentials (71.5% vs 28.0%): Higher GPA score (95.0% vs 0.0%)",
+          "resume_a_score": 0.715,
+          "resume_b_score": 0.28,
+          "weighted_impact": 0.13049999999999998,
+          "evidence_a": [
+            "B.S. in Computer Science from Berkeley (GPA: 38)"
+          ],
+          "evidence_b": [
+            "Master of Business Administration in None from GROWTHSI BUSINESS SCHOOL",
+            "Bachelor of Engineering in Computer Science from RESUME WORDED UNIVERSITY"
+          ],
+          "highlights": [
+            "Higher GPA score (95.0% vs 0.0%)"
+          ]
+        },
+        {
+          "component": "Experience",
+          "reason": "Stronger work experience (74.8% vs 100.0%)",
+          "resume_a_score": 0.7474999999999999,
+          "resume_b_score": 1.0,
+          "weighted_impact": -0.07575000000000001,
+          "evidence_a": [
+            "Junior DevOps Engineer at Putour (None months) - Software Development",
+            "Middleware Administrator at Helfer (None months) - Banking"
+          ],
+          "evidence_b": [
+            "DevOps Manager at RESUME WORDED (None months)",
+            "DevOps Lead at GROWTHSI (None months)",
+            "Infrastructure Manager at GROWTHSI (None months)"
+          ],
+          "highlights": []
+        }
+      ]
+    }
+  ]
+}
