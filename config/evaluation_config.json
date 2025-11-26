@@ -1,4 +1,7 @@
 {
+  "_description": "HR Assistant Evaluation Configuration - Transparent Scoring System",
+  "_version": "2.0",
+  
   "weights": {
     "education": 0.30,
     "experience": 0.30,
@@ -6,6 +9,7 @@
     "coherence": 0.10,
     "awards_other": 0.05
   },
+  
   "subweights": {
     "education": {
       "gpa": 0.5,
@@ -16,12 +20,176 @@
       "if": 0.5,
       "author_position": 0.3,
       "venue_quality": 0.2
+    },
+    "experience": {
+      "duration": 0.4,
+      "domain_match": 0.3,
+      "seniority": 0.3
     }
   },
+  
   "policies": {
     "missing_values_penalty": 0.10,
     "min_months_experience_for_bonus": 24,
     "domain": "NLP",
-    "first_author_bonus": 0.15
+    "first_author_bonus": 0.15,
+    "unknown_university_score": 0.4,
+    "unknown_degree_score": 0.3,
+    "missing_gpa_handling": "neutral",
+    "missing_duration_handling": "estimate"
+  },
+  
+  "university_tiers": {
+    "_description": "University tier mappings for transparent scoring",
+    "tier1": {
+      "score": 1.0,
+      "universities": [
+        "MIT", "Massachusetts Institute of Technology",
+        "Stanford", "Stanford University",
+        "Harvard", "Harvard University",
+        "Cambridge", "University of Cambridge",
+        "Oxford", "University of Oxford",
+        "Caltech", "California Institute of Technology",
+        "Princeton", "Princeton University",
+        "ETH Zurich", "Swiss Federal Institute of Technology"
+      ]
+    },
+    "tier2": {
+      "score": 0.7,
+      "universities": [
+        "National University of Sciences and Technology", "NUST",
+        "IIT", "Indian Institute of Technology",
+        "Carnegie Mellon", "Carnegie Mellon University",
+        "UC Berkeley", "University of California Berkeley",
+        "Cornell", "Cornell University",
+        "Yale", "Yale University",
+        "Columbia", "Columbia University",
+        "University of Toronto",
+        "NED University", "NED University of Engineering and Technology",
+        "LUMS", "Lahore University of Management Sciences"
+      ]
+    },
+    "tier3": {
+      "score": 0.4,
+      "universities": []
+    }
+  },
+  
+  "degree_levels": {
+    "_description": "Degree level scoring matrix",
+    "PhD": 1.0,
+    "Ph.D": 1.0,
+    "Ph.D.": 1.0,
+    "Doctorate": 1.0,
+    "Master": 0.8,
+    "Masters": 0.8,
+    "MS": 0.8,
+    "M.S.": 0.8,
+    "M.S": 0.8,
+    "MBA": 0.8,
+    "MA": 0.8,
+    "Bachelor": 0.6,
+    "Bachelors": 0.6,
+    "BS": 0.6,
+    "B.S.": 0.6,
+    "B.S": 0.6,
+    "BA": 0.6,
+    "B.A.": 0.6,
+    "BE": 0.6,
+    "B.E.": 0.6,
+    "BEng": 0.6,
+    "Associate": 0.4,
+    "Diploma": 0.3,
+    "unknown": 0.3
+  },
+  
+  "publication_if_thresholds": {
+    "_description": "Impact Factor thresholds for publication scoring",
+    "high": {
+      "min": 5.0,
+      "score": 1.0
+    },
+    "medium": {
+      "min": 2.0,
+      "max": 5.0,
+      "score": 0.7
+    },
+    "low": {
+      "min": 0.0,
+      "max": 2.0,
+      "score": 0.4
+    },
+    "unknown": {
+      "score": 0.3
+    }
+  },
+  
+  "author_position_scoring": {
+    "_description": "Author position weights for publications",
+    "1": 1.0,
+    "2": 0.7,
+    "3": 0.5,
+    "4+": 0.3,
+    "unknown": 0.2
+  },
+  
+  "experience_seniority_keywords": {
+    "_description": "Keywords for detecting seniority levels",
+    "senior": ["senior", "sr", "lead", "principal", "chief", "head", "director", "vp", "vice president"],
+    "mid": ["engineer", "developer", "analyst", "scientist", "manager"],
+    "junior": ["junior", "jr", "associate", "intern", "trainee", "entry"]
+  },
+  
+  "coherence_checks": {
+    "_description": "Coherence evaluation criteria",
+    "timeline_gaps_penalty": 0.1,
+    "max_acceptable_gap_months": 6,
+    "field_mismatch_penalty": 0.15,
+    "career_progression_bonus": 0.1
+  },
+  
+  "unknown_handling": {
+    "_description": "How to handle unknown/missing values in scoring",
+    "gpa": {
+      "strategy": "neutral",
+      "score": 0.5,
+      "explanation": "Missing GPA receives neutral score to avoid penalizing candidates who don't report it"
+    },
+    "duration": {
+      "strategy": "estimate",
+      "explanation": "Duration estimated from start/end dates or assigned minimum value"
+    },
+    "university": {
+      "strategy": "tier3",
+      "score": 0.4,
+      "explanation": "Unknown universities default to tier 3 score"
+    },
+    "degree": {
+      "strategy": "minimum",
+      "score": 0.3,
+      "explanation": "Unknown degrees receive minimum score"
+    },
+    "if": {
+      "strategy": "low",
+      "score": 0.3,
+      "explanation": "Publications without IF receive low score"
+    }
+  },
+  
+  "grading_scale": {
+    "_description": "Final score to grade mapping",
+    "A+": {"min": 0.90, "max": 1.0},
+    "A": {"min": 0.80, "max": 0.90},
+    "B+": {"min": 0.70, "max": 0.80},
+    "B": {"min": 0.60, "max": 0.70},
+    "C+": {"min": 0.50, "max": 0.60},
+    "C": {"min": 0.40, "max": 0.50},
+    "D": {"min": 0.0, "max": 0.40}
+  },
+  
+  "ranking_metrics": {
+    "_description": "Configuration for ranking evaluation metrics",
+    "ndcg_k_values": [3, 5, 10],
+    "pairwise_threshold": 0.05
   }
 }
