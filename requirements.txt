@@ -48,3 +48,6 @@ websockets==15.0.1
 # Image processing dependencies for improved OCR
 opencv-python==4.10.0.84
 numpy==1.26.4
+
+# Statistical analysis for ranking metrics
+scipy==1.11.4
