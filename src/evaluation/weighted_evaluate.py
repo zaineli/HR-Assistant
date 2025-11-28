@@ -9,6 +9,7 @@ from collections import defaultdict
 import re
 from datetime import datetime
 from dateutil import parser as date_parser
+from .coherence import CoherenceEvaluator
 
 
 class WeightedResumeEvaluator:
@@ -38,6 +39,9 @@ class WeightedResumeEvaluator:
         # Map resumes
         self.generated_map = self._create_resume_map(self.generated)
         self.ground_truth_map = self._create_resume_map(self.ground_truth)
+        
+        # Initialize coherence evaluator
+        self.coherence_evaluator = CoherenceEvaluator(self.config)
         
         # University tiers (can be extended)
         self.university_tiers = {
@@ -412,53 +416,20 @@ class WeightedResumeEvaluator:
     
     def _evaluate_coherence(self, resume: Dict, ground_truth: Dict) -> Dict[str, float]:
         """
-        Evaluate coherence - how well the extracted data matches ground truth structure.
-        This measures extraction accuracy.
+        Evaluate coherence using CoherenceEvaluator module.
         
         Returns:
             Dict with coherence metrics
         """
-        scores = []
-        
-        # Check each major section
-        sections = ['education', 'experience', 'publications', 'awards']
-        
-        for section in sections:
-            gen_section = resume.get(section, [])
-            truth_section = ground_truth.get(section, [])
-            
-            if not truth_section:
-                # No ground truth - perfect score if nothing generated
-                scores.append(1.0 if not gen_section else 0.5)
-                continue
-            
-            if not gen_section:
-                # Missing section
-                scores.append(0.0)
-                continue
-            
-            # Calculate basic precision/recall for the section
-            gen_count = len(gen_section)
-            truth_count = len(truth_section)
-            
-            # Simplified accuracy based on count difference
-            count_diff = abs(gen_count - truth_count)
-            section_score = max(0.0, 1.0 - (count_diff / max(truth_count, gen_count)))
-            scores.append(section_score)
-        
-        # Name matching
-        name_similarity = self._calculate_string_similarity(
-            resume.get('name'), 
-            ground_truth.get('name')
-        )
-        scores.append(name_similarity)
-        
-        weighted_score = sum(scores) / len(scores) if scores else 0.0
+        # Use coherence evaluator for timeline, field alignment, and progression
+        coherence_details = self.coherence_evaluator.evaluate_coherence(resume)
         
         return {
-            'section_coherence': sum(scores[:4]) / 4 if len(scores) >= 4 else 0.0,
-            'name_accuracy': name_similarity,
-            'weighted_score': weighted_score
+            'timeline_score': coherence_details.get('timeline_score', 1.0),
+            'field_alignment_score': coherence_details.get('field_score', 1.0),
+            'progression_score': coherence_details.get('progression_score', 0.5),
+            'weighted_score': coherence_details.get('score', 0.5),
+            'details': coherence_details
         }
     
     def _calculate_missing_values_penalty(self, resume: Dict) -> float:
@@ -539,7 +510,14 @@ class WeightedResumeEvaluator:
                 'experience': experience_eval['weighted_score'],
                 'publications': publications_eval['weighted_score'],
                 'coherence': coherence_eval['weighted_score'],
-                'awards': awards_eval['weighted_score']
+                'awards_other': awards_eval['weighted_score']
+            },
+            'component_details': {
+                'education': education_eval,
+                'experience': experience_eval,
+                'publications': publications_eval,
+                'coherence': coherence_eval.get('details', {}),
+                'awards_other': awards_eval
             },
             'final_score': final_score,
             'grade': self._get_grade(final_score)
@@ -587,7 +565,7 @@ class WeightedResumeEvaluator:
             results['aggregate']['education'].append(resume_eval['component_scores']['education'])
             results['aggregate']['experience'].append(resume_eval['component_scores']['experience'])
             results['aggregate']['publications'].append(resume_eval['component_scores']['publications'])
-            results['aggregate']['awards'].append(resume_eval['component_scores']['awards'])
+            results['aggregate']['awards'].append(resume_eval['component_scores']['awards_other'])
             results['aggregate']['coherence'].append(resume_eval['component_scores']['coherence'])
             results['aggregate']['final_scores'].append(resume_eval['final_score'])
         
@@ -674,8 +652,9 @@ class WeightedResumeEvaluator:
             # Coherence
             coh = resume_result['coherence']
             print(f"Coherence ({coh['weighted_score']:.1%}):")
-            print(f"  Section Coherence: {coh['section_coherence']:.1%}")
-            print(f"  Name Accuracy:     {coh['name_accuracy']:.1%}")
+            print(f"  Timeline Score:    {coh.get('timeline_score', 0):.1%}")
+            print(f"  Field Alignment:   {coh.get('field_alignment_score', 0):.1%}")
+            print(f"  Progression Score: {coh.get('progression_score', 0):.1%}")
             print()
             
             # Penalty
