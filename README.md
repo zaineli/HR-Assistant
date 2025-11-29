@@ -1,52 +1,45 @@
-# Resume Parser & Evaluator# Resume Processing Pipeline# Resume Parser Backend
+# HR Assistant - Resume Processing & Evaluation Pipeline
 
+An intelligent resume parsing system that extracts structured information from resumes in multiple formats (PDF, DOCX, PNG, JPG) using OCR and Google's Gemini API. Includes advanced evaluation with transparent scoring, evidence-linked explanations, and comprehensive ranking metrics.
 
+## 🆕 Assignment 2: Enhanced Evaluation System
 
-## Setup
+**NEW**: Complete implementation of configurable scoring, ranking, and explanations!
 
+### Key Features:
+- ✅ **Transparent Scoring**: Config-driven with explicit unknown value handling
+- ✅ **Evidence-Linked Explanations**: Resume citations with "Why A > B" comparisons  
+- ✅ **Ranking Metrics**: Kendall's τ, Spearman's ρ, pairwise accuracy, nDCG@k
+- ✅ **Faithfulness Evaluation**: Verifies explanations match actual scoring
+- ✅ **Ablation Studies**: 6 configurations testing component contributions
+- ✅ **Coherence Modeling**: Timeline consistency, field alignment, career progression
 
+**📖 Full Documentation**: See [ASSIGNMENT2.md](ASSIGNMENT2.md) for complete details.
 
-```bash## SetupAn intelligent resume parsing system that extracts structured information from resumes in multiple formats (PDF, DOCX, PNG, JPG) using OCR and Google's Gemini API.
+**🚀 Quick Start**:
+```bash
+# Run full pipeline with enhanced evaluation
+python pipeline.py --ground-truth config/ground_truth/parsed.json
 
-python -m venv venv
+# Or run enhanced evaluation standalone
+python run_assignment2.py data/output/results/parsed.json config/ground_truth/parsed.json
 
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-pip install -r requirements.txt
-
-``````bash## Features
-
-
-
-Configure `.env` with your Google Gemini API key:python -m venv venv
-
+# See usage examples
+python examples_assignment2.py
 ```
 
-GOOGLE_API_KEY=your_key_heresource venv/bin/activate  # Linux/Mac- **Multi-format Support**: Handles PDF, DOCX, PNG, JPG, and JPEG files
+**📊 Output Files** (in `data/output/results/`):
+- `enhanced_evaluation_results.json` - Complete results
+- `explanations.json` - Evidence-linked explanations
+- `rankings.json` - Ranked candidates with comparisons
+- `ranking_metrics.json` - τ, ρ, pairwise acc., nDCG@k
+- `faithfulness_evaluation.json` - Explanation faithfulness scores
+- `ablation_studies.json` - Ablation comparisons
 
-RAW_DIR=data/input/CVs
+---
 
-FINAL_JSON=data/output/results/parsed.json# venv\Scripts\activate   # Windows- **Advanced OCR**: High-quality text extraction using Tesseract with image preprocessing
+## Features
 
-LOG_FILE=logs/logs.txt
-
-```pip install -r requirements.txt- **AI-Powered Parsing**: Uses Google Gemini API to structure resume data
-
-
-
-## Usage```- **Comprehensive Logging**: Detailed pipeline logs for debugging and monitoring
-
-
-
-```bash- **PII Protection**: Automatic redaction of emails and phone numbers
-
-python pipeline.py --ground-truth config/ground_truth/sample_truth.json
-
-```Create `.env` file:- **Smart Duration Calculation**: Automatically calculates work experience duration in months
-
-
-
-Results saved to `data/output/results/` and `pipeline_results.txt````- **Evaluation System**: Calculate precision, recall, F1 scores against ground truth
 
 
 GOOGLE_API_KEY=your_api_key_here
