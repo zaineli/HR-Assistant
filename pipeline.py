@@ -17,6 +17,7 @@ from src.logging_utils import log_step
 from src.evaluation.evaluate import ResumeEvaluator
 from src.evaluation.weighted_evaluate import WeightedResumeEvaluator
 from src.evaluation.ranked_evaluate import RankedResumeEvaluator
+from src.evaluation.enhanced_evaluation import EnhancedEvaluationPipeline
 
 
 class ResumePipeline:
@@ -242,11 +243,29 @@ class ResumePipeline:
                 json.dump(ranked_results, f, indent=2, ensure_ascii=False)
             self.log(f"Ranked evaluation saved to {ranked_output}")
             
+            # Enhanced evaluation (Assignment 2)
+            self.log("")
+            self.log("Running enhanced evaluation (Assignment 2 features)...")
+            try:
+                enhanced_pipeline = EnhancedEvaluationPipeline(
+                    str(parsed_path),
+                    self.ground_truth_path,
+                    self.config_path,
+                    str(self.output_dir)
+                )
+                enhanced_results = enhanced_pipeline.run_full_evaluation()
+                self.log("✓ Enhanced evaluation complete")
+            except Exception as e:
+                self.log(f"Warning: Enhanced evaluation encountered an error: {str(e)}", "WARNING")
+                self.log("Continuing with other evaluations...", "WARNING")
+                enhanced_results = {}
+            
             # Store for summary
             self.evaluation_results = {
                 'standard': std_results,
                 'weighted': weighted_results,
-                'ranked': ranked_results
+                'ranked': ranked_results,
+                'enhanced': enhanced_results
             }
             
             self.log("")
