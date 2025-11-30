@@ -1,0 +1,313 @@
+{
+  "num_candidates": 53,
+  "candidate_ids": [
+    "Image_20.jpg",
+    "Image_52.jpg",
+    "Image_61.jpg",
+    "Image_23.jpg",
+    "Image_67.png",
+    "Image_10.jpg",
+    "Image_65.png",
+    "Image_55.jpg",
+    "Image_72.jpg",
+    "Image_57.jpg",
+    "Image_31.jpg",
+    "Image_36.png",
+    "Image_51.jpg",
+    "Image_61.png",
+    "Image_30.jpg",
+    "Image_68.jpg",
+    "Image_58.jpg",
+    "Image_42.jpg",
+    "Image_35.jpg",
+    "Image_69.jpg",
+    "Image_49.jpg",
+    "Image_76.jpg",
+    "Image_22.png",
+    "Image_27.jpg",
+    "Image_46.jpg",
+    "Image_18.jpg",
+    "Image_16.png",
+    "Image_15.jpg",
+    "Image_23.png",
+    "Image_58.png",
+    "Image_60.png",
+    "Image_21.jpg",
+    "Image_26.jpg",
+    "Image_50.png",
+    "Image_56.png",
+    "Image_65.jpg",
+    "Image_30.png",
+    "Image_9.png",
+    "Image_8.jpg",
+    "Image_53.jpg",
+    "Image_38.jpg",
+    "Image_25.jpg",
+    "Image_33.jpg",
+    "Image_63.jpg",
+    "Image_50.jpg",
+    "Image_48.jpg",
+    "Image_35.png",
+    "Image_16.jpg",
+    "Image_66.png",
+    "Image_62.png",
+    "Image_74.jpg",
+    "Image_13.png",
+    "Image_42.png"
+  ],
+  "kendall_tau": {
+    "tau": 0.1042,
+    "p_value": 0.35756,
+    "significant": false,
+    "interpretation": "Very weak or no agreement"
+  },
+  "spearman_rho": {
+    "rho": 0.1037,
+    "p_value": 0.460096,
+    "significant": false,
+    "interpretation": "Very weak or no correlation"
+  },
+  "pairwise_accuracy": {
+    "accuracy": 0.5271,
+    "correct_pairs": 438,
+    "total_pairs": 831,
+    "incorrect_pairs": 393,
+    "sample_disagreements": [
+      {
+        "candidate_1": "Image_20.jpg",
+        "candidate_2": "Image_52.jpg",
+        "gt_scores": [
+          0.4079999999999999,
+          0.556375
+        ],
+        "system_scores": [
+          0.4079999999999999,
+          0.1
+        ],
+        "gt_winner": "Image_52.jpg",
+        "system_winner": "Image_20.jpg"
+      },
+      {
+        "candidate_1": "Image_20.jpg",
+        "candidate_2": "Image_31.jpg",
+        "gt_scores": [
+          0.4079999999999999,
+          0.56575
+        ],
+        "system_scores": [
+          0.4079999999999999,
+          0.1
+        ],
+        "gt_winner": "Image_31.jpg",
+        "system_winner": "Image_20.jpg"
+      },
+      {
+        "candidate_1": "Image_20.jpg",
+        "candidate_2": "Image_23.png",
+        "gt_scores": [
+          0.4079999999999999,
+          0.4723333333333333
+        ],
+        "system_scores": [
+          0.4079999999999999,
+          0.1
+        ],
+        "gt_winner": "Image_23.png",
+        "system_winner": "Image_20.jpg"
+      },
+      {
+        "candidate_1": "Image_20.jpg",
+        "candidate_2": "Image_50.png",
+        "gt_scores": [
+          0.4079999999999999,
+          0.472
+        ],
+        "system_scores": [
+          0.4079999999999999,
+          0.1
+        ],
+        "gt_winner": "Image_50.png",
+        "system_winner": "Image_20.jpg"
+      },
+      {
+        "candidate_1": "Image_20.jpg",
+        "candidate_2": "Image_30.png",
+        "gt_scores": [
+          0.4079999999999999,
+          0.46799999999999997
+        ],
+        "system_scores": [
+          0.4079999999999999,
+          0.1
+        ],
+        "gt_winner": "Image_30.png",
+        "system_winner": "Image_20.jpg"
+      }
+    ],
+    "interpretation": "Fair pairwise agreement"
+  },
+  "ndcg": {
+    "nDCG@3": {
+      "ndcg": 0.8424,
+      "dcg": 0.9768,
+      "idcg": 1.1596,
+      "k": 3,
+      "top_k_ranking": [
+        {
+          "rank": 1,
+          "candidate": "Image_18.jpg",
+          "system_score": 0.5387,
+          "gt_score": 0.4857,
+          "ideal_rank": 3
+        },
+        {
+          "rank": 2,
+          "candidate": "Image_13.png",
+          "system_score": 0.452,
+          "gt_score": 0.452,
+          "ideal_rank": 8
+        },
+        {
+          "rank": 3,
+          "candidate": "Image_10.jpg",
+          "system_score": 0.412,
+          "gt_score": 0.412,
+          "ideal_rank": 19
+        }
+      ],
+      "interpretation": "Good ranking quality"
+    },
+    "nDCG@5": {
+      "ndcg": 0.8478,
+      "dcg": 1.3104,
+      "idcg": 1.5456,
+      "k": 5,
+      "top_k_ranking": [
+        {
+          "rank": 1,
+          "candidate": "Image_18.jpg",
+          "system_score": 0.5387,
+          "gt_score": 0.4857,
+          "ideal_rank": 3
+        },
+        {
+          "rank": 2,
+          "candidate": "Image_13.png",
+          "system_score": 0.452,
+          "gt_score": 0.452,
+          "ideal_rank": 8
+        },
+        {
+          "rank": 3,
+          "candidate": "Image_10.jpg",
+          "system_score": 0.412,
+          "gt_score": 0.412,
+          "ideal_rank": 19
+        },
+        {
+          "rank": 4,
+          "candidate": "Image_20.jpg",
+          "system_score": 0.408,
+          "gt_score": 0.408,
+          "ideal_rank": 22
+        },
+        {
+          "rank": 5,
+          "candidate": "Image_23.jpg",
+          "system_score": 0.408,
+          "gt_score": 0.408,
+          "ideal_rank": 23
+        }
+      ],
+      "interpretation": "Good ranking quality"
+    },
+    "nDCG@10": {
+      "ndcg": 0.8302,
+      "dcg": 1.8781,
+      "idcg": 2.2622,
+      "k": 10,
+      "top_k_ranking": [
+        {
+          "rank": 1,
+          "candidate": "Image_18.jpg",
+          "system_score": 0.5387,
+          "gt_score": 0.4857,
+          "ideal_rank": 3
+        },
+        {
+          "rank": 2,
+          "candidate": "Image_13.png",
+          "system_score": 0.452,
+          "gt_score": 0.452,
+          "ideal_rank": 8
+        },
+        {
+          "rank": 3,
+          "candidate": "Image_10.jpg",
+          "system_score": 0.412,
+          "gt_score": 0.412,
+          "ideal_rank": 19
+        },
+        {
+          "rank": 4,
+          "candidate": "Image_20.jpg",
+          "system_score": 0.408,
+          "gt_score": 0.408,
+          "ideal_rank": 22
+        },
+        {
+          "rank": 5,
+          "candidate": "Image_23.jpg",
+          "system_score": 0.408,
+          "gt_score": 0.408,
+          "ideal_rank": 23
+        },
+        {
+          "rank": 6,
+          "candidate": "Image_15.jpg",
+          "system_score": 0.38,
+          "gt_score": 0.38,
+          "ideal_rank": 32
+        },
+        {
+          "rank": 7,
+          "candidate": "Image_21.jpg",
+          "system_score": 0.38,
+          "gt_score": 0.38,
+          "ideal_rank": 34
+        },
+        {
+          "rank": 8,
+          "candidate": "Image_16.jpg",
+          "system_score": 0.38,
+          "gt_score": 0.38,
+          "ideal_rank": 36
+        },
+        {
+          "rank": 9,
+          "candidate": "Image_16.png",
+          "system_score": 0.377,
+          "gt_score": 0.377,
+          "ideal_rank": 37
+        },
+        {
+          "rank": 10,
+          "candidate": "Image_22.png",
+          "system_score": 0.25,
+          "gt_score": 0.25,
+          "ideal_rank": 46
+        }
+      ],
+      "interpretation": "Good ranking quality"
+    }
+  },
+  "interpretation": {
+    "summary": "Ranking performance needs improvement",
+    "strengths": [],
+    "weaknesses": [
+      "Weak rank correlation (Kendall's tau)",
+      "Weak monotonic relationship (Spearman's rho)",
+      "Low pairwise ranking accuracy"
+    ]
+  }
+}

@@ -1,0 +1,3198 @@
+{
+  "per_candidate": {
+    "Image_20.jpg": {
+      "candidate_name": null,
+      "filename": "Image_20.jpg",
+      "education_evidence": [
+        {
+          "index": 0,
+          "degree": "Bachelor's Degree",
+          "field": "Computer Science",
+          "university": "CALIFORNIA STATE UNIVERSITY, LOS ANGELES",
+          "gpa": null,
+          "scale": null,
+          "years": "None - None",
+          "evidence_span": "Bachelor's Degree in Computer Science from CALIFORNIA STATE UNIVERSITY, LOS ANGELES",
+          "scoring_breakdown": {
+            "university_tier": {
+              "tier": "tier3",
+              "score": 0.4,
+              "explanation": "CALIFORNIA STATE UNIVERSITY, LOS ANGELES is classified as tier3 (default)"
+            },
+            "degree_level": {
+              "level": "Bachelor",
+              "score": 0.6,
+              "explanation": "Bachelor's Degree classified as Bachelor"
+            },
+            "gpa_score": {
+              "score": 0.5,
+              "normalized": null,
+              "explanation": "GPA not provided - neutral score applied"
+            }
+          },
+          "contribution_to_total": 0.24
+        }
+      ],
+      "experience_evidence": [
+        {
+          "index": 0,
+          "title": "DEVOPS ENGINEER",
+          "organization": null,
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "09/2012 - 09/2015",
+          "evidence_span": "DEVOPS ENGINEER at None (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.9199999999999999
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - missing field/domain information",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - missing field/domain information"
+      },
+      "score_summary": {
+        "education": 0.24,
+        "experience": 0.9199999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.4079999999999999,
+        "grade": "B"
+      }
+    },
+    "Image_52.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_61.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_23.jpg": {
+      "candidate_name": null,
+      "filename": "Image_23.jpg",
+      "education_evidence": [
+        {
+          "index": 0,
+          "degree": "Bachelor's Degree",
+          "field": "Computer Science",
+          "university": "CALIFORNIA STATE UNIVERSITY, LOS ANGELES",
+          "gpa": null,
+          "scale": null,
+          "years": "None - None",
+          "evidence_span": "Bachelor's Degree in Computer Science from CALIFORNIA STATE UNIVERSITY, LOS ANGELES",
+          "scoring_breakdown": {
+            "university_tier": {
+              "tier": "tier3",
+              "score": 0.4,
+              "explanation": "CALIFORNIA STATE UNIVERSITY, LOS ANGELES is classified as tier3 (default)"
+            },
+            "degree_level": {
+              "level": "Bachelor",
+              "score": 0.6,
+              "explanation": "Bachelor's Degree classified as Bachelor"
+            },
+            "gpa_score": {
+              "score": 0.5,
+              "normalized": null,
+              "explanation": "GPA not provided - neutral score applied"
+            }
+          },
+          "contribution_to_total": 0.24
+        }
+      ],
+      "experience_evidence": [
+        {
+          "index": 0,
+          "title": "DEVOPS ENGINEER",
+          "organization": null,
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "09/2012 - 09/2015",
+          "evidence_span": "DEVOPS ENGINEER at None (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.9199999999999999
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - missing field/domain information",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - missing field/domain information"
+      },
+      "score_summary": {
+        "education": 0.24,
+        "experience": 0.9199999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.4079999999999999,
+        "grade": "B"
+      }
+    },
+    "Image_67.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_10.jpg": {
+      "candidate_name": "Rerr Ratinson",
+      "filename": "Image_10.jpg",
+      "education_evidence": [
+        {
+          "index": 0,
+          "degree": null,
+          "field": null,
+          "university": "University of Richmond",
+          "gpa": null,
+          "scale": null,
+          "years": "2006 - 2010",
+          "evidence_span": "None in None from University of Richmond",
+          "scoring_breakdown": {
+            "university_tier": {
+              "tier": "tier3",
+              "score": 0.4,
+              "explanation": "University of Richmond is classified as tier3 (default)"
+            },
+            "degree_level": {
+              "level": "unknown",
+              "score": 0.3,
+              "explanation": "Degree level not specified"
+            },
+            "gpa_score": {
+              "score": 0.5,
+              "normalized": null,
+              "explanation": "GPA not provided - neutral score applied"
+            }
+          },
+          "contribution_to_total": 0.12
+        }
+      ],
+      "experience_evidence": [
+        {
+          "index": 0,
+          "title": "Sr.-DevOps Engineer",
+          "organization": "Dufour",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2015 - currently working",
+          "evidence_span": "Sr.-DevOps Engineer at Dufour (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "senior",
+              "score": 1.0,
+              "keyword": "sr",
+              "explanation": "Detected senior level via keyword \"sr\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.25
+        },
+        {
+          "index": 1,
+          "title": "DevOps Engineer",
+          "organization": "Lessacd",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2013 - 2015",
+          "evidence_span": "DevOps Engineer at Lessacd (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.25
+        },
+        {
+          "index": 2,
+          "title": "DevOps Engineer",
+          "organization": "Stracke",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2011 - 2013",
+          "evidence_span": "DevOps Engineer at Stracke (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.25
+        },
+        {
+          "index": 3,
+          "title": "Junior' DevOps Engineer",
+          "organization": "WymanL1d",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2010 - 2011",
+          "evidence_span": "Junior' DevOps Engineer at WymanL1d (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.25
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - missing field/domain information",
+        "career_progression": true,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Career progression detected (seniority increase); Field alignment: Cannot determine - missing field/domain information"
+      },
+      "score_summary": {
+        "education": 0.12,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.4119999999999999,
+        "grade": "B"
+      }
+    },
+    "Image_65.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_55.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_72.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_31.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_36.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_57.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_51.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_61.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_30.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_58.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_42.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_68.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_35.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_69.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_49.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_76.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_22.png": {
+      "candidate_name": null,
+      "filename": "Image_22.png",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "index": 0,
+          "title": "DevOps Engineer",
+          "organization": "Aperture Science",
+          "domain": null,
+          "duration_months": 3,
+          "duration_years": 0.2,
+          "period": "01/2023 - 04/2023",
+          "evidence_span": "DevOps Engineer at Aperture Science (3 months)",
+          "scoring_breakdown": {
+            "duration_score": 0.05,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.18888888888888888
+        },
+        {
+          "index": 1,
+          "title": "Cloud Infrastructure Manager",
+          "organization": "Cognitive Systems",
+          "domain": null,
+          "duration_months": 3,
+          "duration_years": 0.2,
+          "period": "09/2022 - 12/2022",
+          "evidence_span": "Cloud Infrastructure Manager at Cognitive Systems (3 months)",
+          "scoring_breakdown": {
+            "duration_score": 0.05,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "manager",
+              "explanation": "Detected mid level via keyword \"manager\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.18888888888888888
+        },
+        {
+          "index": 2,
+          "title": "DevOps Engineer",
+          "organization": "Macrohard",
+          "domain": null,
+          "duration_months": 2,
+          "duration_years": 0.2,
+          "period": "07/2022 - 09/2022",
+          "evidence_span": "DevOps Engineer at Macrohard (2 months)",
+          "scoring_breakdown": {
+            "duration_score": 0.03333333333333333,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.18888888888888888
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": true,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Career progression detected (seniority increase); Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.5666666666666667,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.25,
+        "grade": "C"
+      }
+    },
+    "Image_27.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_46.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_18.jpg": {
+      "candidate_name": "Travis Hernandez",
+      "filename": "Image_18.jpg",
+      "education_evidence": [
+        {
+          "index": 0,
+          "degree": "B.S.",
+          "field": "Computer Science",
+          "university": "Berkeley",
+          "gpa": 38,
+          "scale": 40,
+          "years": "2012 - 2018",
+          "evidence_span": "B.S. in Computer Science from Berkeley (GPA: 38)",
+          "scoring_breakdown": {
+            "university_tier": {
+              "tier": "tier2",
+              "score": 0.7,
+              "explanation": "Berkeley is a tier2 university"
+            },
+            "degree_level": {
+              "level": "B.S.",
+              "score": 0.6,
+              "explanation": "B.S. classified as B.S."
+            },
+            "gpa_score": {
+              "score": 0.95,
+              "normalized": 0.95,
+              "raw": 38.0,
+              "scale": 40.0,
+              "explanation": "GPA 38.0/40.0 = 0.95 normalized"
+            }
+          },
+          "contribution_to_total": 0.715
+        }
+      ],
+      "experience_evidence": [
+        {
+          "index": 0,
+          "title": "Junior DevOps Engineer",
+          "organization": "Putour",
+          "domain": "Software Development",
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2019 - currently working",
+          "evidence_span": "Junior DevOps Engineer at Putour (0 months) - Software Development",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.5,
+              "explanation": "Domain Software Development does not match target NLP"
+            }
+          },
+          "contribution_to_total": 0.37374999999999997
+        },
+        {
+          "index": 1,
+          "title": "Middleware Administrator",
+          "organization": "Helfer",
+          "domain": "Banking",
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2015 - 2019",
+          "evidence_span": "Middleware Administrator at Helfer (0 months) - Banking",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "explanation": "Default to mid-level (no seniority keywords detected)"
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.5,
+              "explanation": "Domain Banking does not match target NLP"
+            }
+          },
+          "contribution_to_total": 0.37374999999999997
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Aligned",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Aligned"
+      },
+      "score_summary": {
+        "education": 0.715,
+        "experience": 0.7474999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.53875,
+        "grade": "B"
+      }
+    },
+    "Image_15.jpg": {
+      "candidate_name": "ABE Capoden- ey",
+      "filename": "Image_15.jpg",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "index": 0,
+          "title": "THOpS Sopiort Engiiiser",
+          "organization": "ABC Corgorion",
+          "domain": "",
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "Octatés 201 - Deébec 2013",
+          "evidence_span": "THOpS Sopiort Engiiiser at ABC Corgorion (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "explanation": "Default to mid-level (no seniority keywords detected)"
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 1.0
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.38,
+        "grade": "C"
+      }
+    },
+    "Image_16.png": {
+      "candidate_name": null,
+      "filename": "Image_16.png",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "index": 0,
+          "title": "AWS DevOps Engineer",
+          "organization": "RESUME WORDED",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2016 - currently working",
+          "evidence_span": "AWS DevOps Engineer at RESUME WORDED (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.25
+        },
+        {
+          "index": 1,
+          "title": "Senior Programmer",
+          "organization": "GROWTHSI",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2015 - 2016",
+          "evidence_span": "Senior Programmer at GROWTHSI (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "senior",
+              "score": 1.0,
+              "keyword": "senior",
+              "explanation": "Detected senior level via keyword \"senior\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.25
+        },
+        {
+          "index": 2,
+          "title": "Software engineer",
+          "organization": "GROWTHSI",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2012 - 2016",
+          "evidence_span": "Software engineer at GROWTHSI (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.25
+        },
+        {
+          "index": 3,
+          "title": "Software engineer Intern",
+          "organization": "RESUME WORDED",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2012 - 2013",
+          "evidence_span": "Software engineer Intern at RESUME WORDED (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.25
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [
+          {
+            "type": "timeline_overlap",
+            "severity": "low",
+            "description": "Overlap of 48 months between Software engineer and Software engineer Intern",
+            "overlap_months": 48
+          },
+          {
+            "type": "timeline_gap",
+            "severity": "medium",
+            "description": "Gap of 24 months between Software engineer Intern and Senior Programmer",
+            "gap_months": 24
+          }
+        ],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": true,
+        "overall_score": 0.97,
+        "explanation": "Found 2 timeline gaps or overlaps; Career progression detected (seniority increase); Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 0.97,
+        "awards_other": 0.0,
+        "final_score": 0.377,
+        "grade": "C"
+      }
+    },
+    "Image_23.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_58.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_21.jpg": {
+      "candidate_name": "Dongopod SEyrE",
+      "filename": "Image_21.jpg",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "index": 0,
+          "title": "Senlor Gavaps Englrieer 1",
+          "organization": "T iniginationar",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2014 - 2020",
+          "evidence_span": "Senlor Gavaps Englrieer 1 at T iniginationar (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "explanation": "Default to mid-level (no seniority keywords detected)"
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.5
+        },
+        {
+          "index": 1,
+          "title": "Senlor Dévops Englneer",
+          "organization": "Delta Corporalion",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2011 - 2014",
+          "evidence_span": "Senlor Dévops Englneer at Delta Corporalion (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "explanation": "Default to mid-level (no seniority keywords detected)"
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.5
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.38,
+        "grade": "C"
+      }
+    },
+    "Image_60.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_26.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_50.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_56.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_65.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_30.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_9.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_8.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_53.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_25.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_38.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_33.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_63.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_48.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_50.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_35.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_16.jpg": {
+      "candidate_name": "Y EVGEN",
+      "filename": "Image_16.jpg",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "index": 0,
+          "title": "Lead DevOps Engineer",
+          "organization": "Cloudbeds (cloudbeds.com)",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "0772017 - currently working",
+          "evidence_span": "Lead DevOps Engineer at Cloudbeds (cloudbeds.com) (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "senior",
+              "score": 1.0,
+              "keyword": "lead",
+              "explanation": "Detected senior level via keyword \"lead\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.5
+        },
+        {
+          "index": 1,
+          "title": "DevOps Expert",
+          "organization": "Devellar (devellar.com)",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "0172016 - currently working",
+          "evidence_span": "DevOps Expert at Devellar (devellar.com) (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "explanation": "Default to mid-level (no seniority keywords detected)"
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.5
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.38,
+        "grade": "C"
+      }
+    },
+    "Image_66.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_62.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_74.jpg": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    },
+    "Image_13.png": {
+      "candidate_name": "Azure DevOps engineer",
+      "filename": "Image_13.png",
+      "education_evidence": [
+        {
+          "index": 0,
+          "degree": "Bachelor of Science",
+          "field": "Computer Science",
+          "university": "Resume Worded University",
+          "gpa": null,
+          "scale": null,
+          "years": "2011 - None",
+          "evidence_span": "Bachelor of Science in Computer Science from Resume Worded University",
+          "scoring_breakdown": {
+            "university_tier": {
+              "tier": "tier3",
+              "score": 0.4,
+              "explanation": "Resume Worded University is classified as tier3 (default)"
+            },
+            "degree_level": {
+              "level": "Bachelor",
+              "score": 0.6,
+              "explanation": "Bachelor of Science classified as Bachelor"
+            },
+            "gpa_score": {
+              "score": 0.5,
+              "normalized": null,
+              "explanation": "GPA not provided - neutral score applied"
+            }
+          },
+          "contribution_to_total": 0.24
+        }
+      ],
+      "experience_evidence": [
+        {
+          "index": 0,
+          "title": "Azure DevOps Engineer",
+          "organization": "Resume Worded",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2015 - currently working",
+          "evidence_span": "Azure DevOps Engineer at Resume Worded (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.3333333333333333
+        },
+        {
+          "index": 1,
+          "title": "Linux Administrator",
+          "organization": "Growthsi",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2013 - 2015",
+          "evidence_span": "Linux Administrator at Growthsi (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "explanation": "Default to mid-level (no seniority keywords detected)"
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.3333333333333333
+        },
+        {
+          "index": 2,
+          "title": "Build and Release Engineer",
+          "organization": "Resume Worded Exciting Company",
+          "domain": null,
+          "duration_months": 0,
+          "duration_years": 0,
+          "period": "2011 - 2013",
+          "evidence_span": "Build and Release Engineer at Resume Worded Exciting Company (0 months)",
+          "scoring_breakdown": {
+            "duration_score": 0,
+            "seniority": {
+              "level": "mid",
+              "score": 0.7,
+              "keyword": "engineer",
+              "explanation": "Detected mid level via keyword \"engineer\""
+            },
+            "domain_match": {
+              "matches": false,
+              "score": 0.3,
+              "explanation": "Domain not specified"
+            }
+          },
+          "contribution_to_total": 0.3333333333333333
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - missing field/domain information",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - missing field/domain information"
+      },
+      "score_summary": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.45199999999999996,
+        "grade": "B"
+      }
+    },
+    "Image_42.png": {
+      "candidate_name": "Unknown",
+      "filename": "Unknown",
+      "education_evidence": [
+        {
+          "missing": true,
+          "explanation": "No education information found",
+          "impact": "Education component receives zero score"
+        }
+      ],
+      "experience_evidence": [
+        {
+          "missing": true,
+          "explanation": "No experience information found",
+          "impact": "Experience component receives zero score"
+        }
+      ],
+      "publications_evidence": [
+        {
+          "missing": true,
+          "explanation": "No publications found",
+          "impact": "Publications component receives zero score"
+        }
+      ],
+      "awards_evidence": [
+        {
+          "missing": true,
+          "explanation": "No awards found",
+          "impact": "Awards component receives minimal score"
+        }
+      ],
+      "coherence_evidence": {
+        "timeline_consistency": [],
+        "field_alignment": "Cannot determine - insufficient data",
+        "career_progression": false,
+        "overall_score": 1.0,
+        "explanation": "Timeline is consistent with no significant gaps; Field alignment: Cannot determine - insufficient data"
+      },
+      "score_summary": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0,
+        "final_score": 0.1,
+        "grade": "F"
+      }
+    }
+  },
+  "generation_timestamp": "2025-11-30T15:05:57.691692"
+}

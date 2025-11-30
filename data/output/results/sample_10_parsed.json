@@ -1,0 +1,331 @@
+[
+  {
+    "name": "Rerr Ratinson",
+    "education": [
+      {
+        "degree": null,
+        "field": null,
+        "university": "University of Richmond",
+        "country": "VA",
+        "start": 2006,
+        "end": 2010,
+        "gpa": null,
+        "scale": null
+      }
+    ],
+    "experience": [
+      {
+        "title": "Sr.-DevOps Engineer",
+        "org": "Dufour",
+        "start": 2015,
+        "end": "currently working",
+        "duration_months": null,
+        "domain": null
+      },
+      {
+        "title": "DevOps Engineer",
+        "org": "Lessacd",
+        "start": 2013,
+        "end": 2015,
+        "duration_months": null,
+        "domain": null
+      },
+      {
+        "title": "DevOps Engineer",
+        "org": "Stracke",
+        "start": 2011,
+        "end": 2013,
+        "duration_months": null,
+        "domain": null
+      },
+      {
+        "title": "Junior' DevOps Engineer",
+        "org": "WymanL1d",
+        "start": 2010,
+        "end": 2011,
+        "duration_months": null,
+        "domain": null
+      }
+    ],
+    "publications": [],
+    "awards": [],
+    "filename": "Image_10.jpg"
+  },
+  {
+    "name": "Azure DevOps engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "field": "Computer Science",
+        "university": "Resume Worded University",
+        "country": "NY",
+        "start": 2011,
+        "end": null,
+        "gpa": null,
+        "scale": null
+      }
+    ],
+    "experience": [
+      {
+        "title": "Azure DevOps Engineer",
+        "org": "Resume Worded",
+        "start": 2015,
+        "end": "currently working",
+        "duration_months": null,
+        "domain": null
+      },
+      {
+        "title": "Linux Administrator",
+        "org": "Growthsi",
+        "start": 2013,
+        "end": 2015,
+        "duration_months": null,
+        "domain": null
+      },
+      {
+        "title": "Build and Release Engineer",
+        "org": "Resume Worded Exciting Company",
+        "start": 2011,
+        "end": 2013,
+        "duration_months": null,
+        "domain": null
+      }
+    ],
+    "publications": [],
+    "awards": [],
+    "filename": "Image_13.png"
+  },
+  {
+    "name": "ABE Capoden- ey",
+    "education": [],
+    "experience": [
+      {
+        "title": "THOpS Sopiort Engiiiser",
+        "org": "ABC Corgorion",
+        "start": "Octatés 201",
+        "end": "Deébec 2013",
+        "duration_months": null,
+        "domain": ""
+      }
+    ],
+    "publications": [],
+    "awards": [],
+    "filename": "Image_15.jpg"
+  },
+  {
+    "name": "Y EVGEN",
+    "education": [],
+    "experience": [
+      {
+        "title": "Lead DevOps Engineer",
+        "org": "Cloudbeds (cloudbeds.com)",
+        "start": "0772017",
+        "end": "currently working",
+        "duration_months": null,
+        "domain": null
+      },
+      {
+        "title": "DevOps Expert",
+        "org": "Devellar (devellar.com)",
+        "start": "0172016",
+        "end": "currently working",
+        "duration_months": null,
+        "domain": null
+      }
+    ],
+    "publications": [],
+    "awards": [],
+    "filename": "Image_16.jpg"
+  },
+  {
+    "name": null,
+    "education": [],
+    "experience": [
+      {
+        "title": "AWS DevOps Engineer",
+        "org": "RESUME WORDED",
+        "start": 2016,
+        "end": "currently working",
+        "duration_months": null,
+        "domain": null
+      },
+      {
+        "title": "Senior Programmer",
+        "org": "GROWTHSI",
+        "start": 2015,
+        "end": 2016,
+        "duration_months": null,
+        "domain": null
+      },
+      {
+        "title": "Software engineer",
+        "org": "GROWTHSI",
+        "start": 2012,
+        "end": 2016,
+        "duration_months": null,
+        "domain": null
+      },
+      {
+        "title": "Software engineer Intern",
+        "org": "RESUME WORDED",
+        "start": 2012,
+        "end": 2013,
+        "duration_months": null,
+        "domain": null
+      }
+    ],
+    "publications": [],
+    "awards": [],
+    "filename": "Image_16.png"
+  },
+  {
+    "name": "Travis Hernandez",
+    "education": [
+      {
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "university": "Berkeley",
+        "country": "USA",
+        "start": 2012,
+        "end": 2018,
+        "gpa": 38,
+        "scale": 40
+      }
+    ],
+    "experience": [
+      {
+        "title": "Junior DevOps Engineer",
+        "org": "Putour",
+        "start": 2019,
+        "end": "currently working",
+        "duration_months": null,
+        "domain": "Software Development"
+      },
+      {
+        "title": "Middleware Administrator",
+        "org": "Helfer",
+        "start": 2015,
+        "end": 2019,
+        "duration_months": null,
+        "domain": "Banking"
+      }
+    ],
+    "publications": [],
+    "awards": [],
+    "filename": "Image_18.jpg"
+  },
+  {
+    "name": null,
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "university": "CALIFORNIA STATE UNIVERSITY, LOS ANGELES",
+        "country": null,
+        "start": null,
+        "end": null,
+        "gpa": null,
+        "scale": null
+      }
+    ],
+    "experience": [
+      {
+        "title": "DEVOPS ENGINEER",
+        "org": null,
+        "start": "09/2012",
+        "end": "09/2015",
+        "duration_months": null,
+        "domain": null
+      }
+    ],
+    "publications": [],
+    "awards": [],
+    "filename": "Image_20.jpg"
+  },
+  {
+    "name": "Dongopod SEyrE",
+    "education": [],
+    "experience": [
+      {
+        "title": "Senlor Gavaps Englrieer 1",
+        "org": "T iniginationar",
+        "start": "2014",
+        "end": "2020",
+        "duration_months": null,
+        "domain": null
+      },
+      {
+        "title": "Senlor Dévops Englneer",
+        "org": "Delta Corporalion",
+        "start": "2011",
+        "end": "2014",
+        "duration_months": null,
+        "domain": null
+      }
+    ],
+    "publications": [],
+    "awards": [],
+    "filename": "Image_21.jpg"
+  },
+  {
+    "name": null,
+    "education": [],
+    "experience": [
+      {
+        "title": "DevOps Engineer",
+        "org": "Aperture Science",
+        "start": "01/2023",
+        "end": "04/2023",
+        "duration_months": 3,
+        "domain": null
+      },
+      {
+        "title": "Cloud Infrastructure Manager",
+        "org": "Cognitive Systems",
+        "start": "09/2022",
+        "end": "12/2022",
+        "duration_months": 3,
+        "domain": null
+      },
+      {
+        "title": "DevOps Engineer",
+        "org": "Macrohard",
+        "start": "07/2022",
+        "end": "09/2022",
+        "duration_months": 2,
+        "domain": null
+      }
+    ],
+    "publications": [],
+    "awards": [],
+    "filename": "Image_22.png"
+  },
+  {
+    "name": null,
+    "education": [
+      {
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "university": "CALIFORNIA STATE UNIVERSITY, LOS ANGELES",
+        "country": null,
+        "start": null,
+        "end": null,
+        "gpa": null,
+        "scale": null
+      }
+    ],
+    "experience": [
+      {
+        "title": "DEVOPS ENGINEER",
+        "org": null,
+        "start": "09/2012",
+        "end": "09/2015",
+        "duration_months": null,
+        "domain": null
+      }
+    ],
+    "publications": [],
+    "awards": [],
+    "filename": "Image_23.jpg"
+  }
+]

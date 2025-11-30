@@ -1,0 +1,1646 @@
+{
+  "ranking_list": [
+    {
+      "candidate": "Image_18.jpg",
+      "score": 0.53875,
+      "grade": "B",
+      "component_scores": {
+        "education": 0.715,
+        "experience": 0.7474999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 1
+    },
+    {
+      "candidate": "Image_13.png",
+      "score": 0.45199999999999996,
+      "grade": "B",
+      "component_scores": {
+        "education": 0.24,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 2
+    },
+    {
+      "candidate": "Image_10.jpg",
+      "score": 0.4119999999999999,
+      "grade": "B",
+      "component_scores": {
+        "education": 0.12,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 3
+    },
+    {
+      "candidate": "Image_20.jpg",
+      "score": 0.4079999999999999,
+      "grade": "B",
+      "component_scores": {
+        "education": 0.24,
+        "experience": 0.9199999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 4
+    },
+    {
+      "candidate": "Image_23.jpg",
+      "score": 0.4079999999999999,
+      "grade": "B",
+      "component_scores": {
+        "education": 0.24,
+        "experience": 0.9199999999999999,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 5
+    },
+    {
+      "candidate": "Image_15.jpg",
+      "score": 0.38,
+      "grade": "C",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 6
+    },
+    {
+      "candidate": "Image_21.jpg",
+      "score": 0.38,
+      "grade": "C",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 7
+    },
+    {
+      "candidate": "Image_16.jpg",
+      "score": 0.38,
+      "grade": "C",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 8
+    },
+    {
+      "candidate": "Image_16.png",
+      "score": 0.377,
+      "grade": "C",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 1.0,
+        "publications": 0.0,
+        "coherence": 0.97,
+        "awards_other": 0.0
+      },
+      "rank": 9
+    },
+    {
+      "candidate": "Image_22.png",
+      "score": 0.25,
+      "grade": "C",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.5666666666666667,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 10
+    },
+    {
+      "candidate": "Image_52.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 11
+    },
+    {
+      "candidate": "Image_61.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 12
+    },
+    {
+      "candidate": "Image_67.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 13
+    },
+    {
+      "candidate": "Image_65.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 14
+    },
+    {
+      "candidate": "Image_55.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 15
+    },
+    {
+      "candidate": "Image_72.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 16
+    },
+    {
+      "candidate": "Image_31.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 17
+    },
+    {
+      "candidate": "Image_36.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 18
+    },
+    {
+      "candidate": "Image_57.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 19
+    },
+    {
+      "candidate": "Image_51.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 20
+    },
+    {
+      "candidate": "Image_61.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 21
+    },
+    {
+      "candidate": "Image_30.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 22
+    },
+    {
+      "candidate": "Image_58.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 23
+    },
+    {
+      "candidate": "Image_42.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 24
+    },
+    {
+      "candidate": "Image_68.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 25
+    },
+    {
+      "candidate": "Image_35.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 26
+    },
+    {
+      "candidate": "Image_69.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 27
+    },
+    {
+      "candidate": "Image_49.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 28
+    },
+    {
+      "candidate": "Image_76.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 29
+    },
+    {
+      "candidate": "Image_27.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 30
+    },
+    {
+      "candidate": "Image_46.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 31
+    },
+    {
+      "candidate": "Image_23.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 32
+    },
+    {
+      "candidate": "Image_58.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 33
+    },
+    {
+      "candidate": "Image_60.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 34
+    },
+    {
+      "candidate": "Image_26.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 35
+    },
+    {
+      "candidate": "Image_50.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 36
+    },
+    {
+      "candidate": "Image_56.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 37
+    },
+    {
+      "candidate": "Image_65.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 38
+    },
+    {
+      "candidate": "Image_30.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 39
+    },
+    {
+      "candidate": "Image_9.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 40
+    },
+    {
+      "candidate": "Image_8.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 41
+    },
+    {
+      "candidate": "Image_53.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 42
+    },
+    {
+      "candidate": "Image_25.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 43
+    },
+    {
+      "candidate": "Image_38.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 44
+    },
+    {
+      "candidate": "Image_33.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 45
+    },
+    {
+      "candidate": "Image_63.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 46
+    },
+    {
+      "candidate": "Image_48.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 47
+    },
+    {
+      "candidate": "Image_50.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 48
+    },
+    {
+      "candidate": "Image_35.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 49
+    },
+    {
+      "candidate": "Image_66.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 50
+    },
+    {
+      "candidate": "Image_62.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 51
+    },
+    {
+      "candidate": "Image_74.jpg",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 52
+    },
+    {
+      "candidate": "Image_42.png",
+      "score": 0.1,
+      "grade": "F",
+      "component_scores": {
+        "education": 0.0,
+        "experience": 0.0,
+        "publications": 0.0,
+        "coherence": 1.0,
+        "awards_other": 0.0
+      },
+      "rank": 53
+    }
+  ],
+  "pairwise_comparisons": [
+    {
+      "candidate_a": "Travis Hernandez",
+      "candidate_b": "Azure DevOps engineer",
+      "final_score_a": 0.5387,
+      "final_score_b": 0.452,
+      "score_delta": 0.0867,
+      "grade_a": "B",
+      "grade_b": "B",
+      "summary": "Travis Hernandez scores 0.0867 points higher than Azure DevOps engineer",
+      "component_deltas": [
+        {
+          "component": "education",
+          "score_a": 0.715,
+          "score_b": 0.24,
+          "delta": 0.475,
+          "weighted_delta": 0.1425,
+          "weight": 0.3
+        },
+        {
+          "component": "experience",
+          "score_a": 0.7475,
+          "score_b": 1.0,
+          "delta": -0.2525,
+          "weighted_delta": -0.0758,
+          "weight": 0.3
+        },
+        {
+          "component": "publications",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.25
+        },
+        {
+          "component": "coherence",
+          "score_a": 1.0,
+          "score_b": 1.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.1
+        },
+        {
+          "component": "awards_other",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.05
+        }
+      ],
+      "top_3_reasons": [
+        {
+          "rank": 1,
+          "component": "education",
+          "delta": 0.475,
+          "weighted_impact": 0.1425,
+          "reason": "Candidate A has higher tier university (Berkeley vs Resume Worded University), better GPA (38 vs None)",
+          "evidence_a": [
+            "B.S. in Computer Science from Berkeley (GPA: 38)"
+          ],
+          "evidence_b": [
+            "Bachelor of Science in Computer Science from Resume Worded University"
+          ]
+        },
+        {
+          "rank": 2,
+          "component": "experience",
+          "delta": -0.2525,
+          "weighted_impact": -0.0758,
+          "reason": "Candidate A has more experience (0 months vs 0 months)",
+          "evidence_a": [
+            "Junior DevOps Engineer at Putour (0 months) - Software Development",
+            "Middleware Administrator at Helfer (0 months) - Banking"
+          ],
+          "evidence_b": [
+            "Azure DevOps Engineer at Resume Worded (0 months)",
+            "Linux Administrator at Growthsi (0 months)",
+            "Build and Release Engineer at Resume Worded Exciting Company (0 months)"
+          ]
+        },
+        {
+          "rank": 3,
+          "component": "publications",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has higher quality publications (better IF or author positions)",
+          "evidence_a": [
+            "No evidence available"
+          ],
+          "evidence_b": [
+            "No evidence available"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_a": "Travis Hernandez",
+      "candidate_b": "Rerr Ratinson",
+      "final_score_a": 0.5387,
+      "final_score_b": 0.412,
+      "score_delta": 0.1268,
+      "grade_a": "B",
+      "grade_b": "B",
+      "summary": "Travis Hernandez scores 0.1268 points higher than Rerr Ratinson",
+      "component_deltas": [
+        {
+          "component": "education",
+          "score_a": 0.715,
+          "score_b": 0.12,
+          "delta": 0.595,
+          "weighted_delta": 0.1785,
+          "weight": 0.3
+        },
+        {
+          "component": "experience",
+          "score_a": 0.7475,
+          "score_b": 1.0,
+          "delta": -0.2525,
+          "weighted_delta": -0.0758,
+          "weight": 0.3
+        },
+        {
+          "component": "publications",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.25
+        },
+        {
+          "component": "coherence",
+          "score_a": 1.0,
+          "score_b": 1.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.1
+        },
+        {
+          "component": "awards_other",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.05
+        }
+      ],
+      "top_3_reasons": [
+        {
+          "rank": 1,
+          "component": "education",
+          "delta": 0.595,
+          "weighted_impact": 0.1785,
+          "reason": "Candidate A has higher tier university (Berkeley vs University of Richmond), higher degree level (B.S. vs None), better GPA (38 vs None)",
+          "evidence_a": [
+            "B.S. in Computer Science from Berkeley (GPA: 38)"
+          ],
+          "evidence_b": [
+            "None in None from University of Richmond"
+          ]
+        },
+        {
+          "rank": 2,
+          "component": "experience",
+          "delta": -0.2525,
+          "weighted_impact": -0.0758,
+          "reason": "Candidate A has more experience (0 months vs 0 months)",
+          "evidence_a": [
+            "Junior DevOps Engineer at Putour (0 months) - Software Development",
+            "Middleware Administrator at Helfer (0 months) - Banking"
+          ],
+          "evidence_b": [
+            "Sr.-DevOps Engineer at Dufour (0 months)",
+            "DevOps Engineer at Lessacd (0 months)",
+            "DevOps Engineer at Stracke (0 months)"
+          ]
+        },
+        {
+          "rank": 3,
+          "component": "publications",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has higher quality publications (better IF or author positions)",
+          "evidence_a": [
+            "No evidence available"
+          ],
+          "evidence_b": [
+            "No evidence available"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_a": "Travis Hernandez",
+      "candidate_b": null,
+      "final_score_a": 0.5387,
+      "final_score_b": 0.408,
+      "score_delta": 0.1308,
+      "grade_a": "B",
+      "grade_b": "B",
+      "summary": "Travis Hernandez scores 0.1308 points higher than None",
+      "component_deltas": [
+        {
+          "component": "education",
+          "score_a": 0.715,
+          "score_b": 0.24,
+          "delta": 0.475,
+          "weighted_delta": 0.1425,
+          "weight": 0.3
+        },
+        {
+          "component": "experience",
+          "score_a": 0.7475,
+          "score_b": 0.92,
+          "delta": -0.1725,
+          "weighted_delta": -0.0517,
+          "weight": 0.3
+        },
+        {
+          "component": "publications",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.25
+        },
+        {
+          "component": "coherence",
+          "score_a": 1.0,
+          "score_b": 1.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.1
+        },
+        {
+          "component": "awards_other",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.05
+        }
+      ],
+      "top_3_reasons": [
+        {
+          "rank": 1,
+          "component": "education",
+          "delta": 0.475,
+          "weighted_impact": 0.1425,
+          "reason": "Candidate A has higher tier university (Berkeley vs CALIFORNIA STATE UNIVERSITY, LOS ANGELES), better GPA (38 vs None)",
+          "evidence_a": [
+            "B.S. in Computer Science from Berkeley (GPA: 38)"
+          ],
+          "evidence_b": [
+            "Bachelor's Degree in Computer Science from CALIFORNIA STATE UNIVERSITY, LOS ANGELES"
+          ]
+        },
+        {
+          "rank": 2,
+          "component": "experience",
+          "delta": -0.1725,
+          "weighted_impact": -0.0517,
+          "reason": "Candidate A has more experience (0 months vs 0 months)",
+          "evidence_a": [
+            "Junior DevOps Engineer at Putour (0 months) - Software Development",
+            "Middleware Administrator at Helfer (0 months) - Banking"
+          ],
+          "evidence_b": [
+            "DEVOPS ENGINEER at None (0 months)"
+          ]
+        },
+        {
+          "rank": 3,
+          "component": "publications",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has higher quality publications (better IF or author positions)",
+          "evidence_a": [
+            "No evidence available"
+          ],
+          "evidence_b": [
+            "No evidence available"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_a": "Travis Hernandez",
+      "candidate_b": null,
+      "final_score_a": 0.5387,
+      "final_score_b": 0.408,
+      "score_delta": 0.1308,
+      "grade_a": "B",
+      "grade_b": "B",
+      "summary": "Travis Hernandez scores 0.1308 points higher than None",
+      "component_deltas": [
+        {
+          "component": "education",
+          "score_a": 0.715,
+          "score_b": 0.24,
+          "delta": 0.475,
+          "weighted_delta": 0.1425,
+          "weight": 0.3
+        },
+        {
+          "component": "experience",
+          "score_a": 0.7475,
+          "score_b": 0.92,
+          "delta": -0.1725,
+          "weighted_delta": -0.0517,
+          "weight": 0.3
+        },
+        {
+          "component": "publications",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.25
+        },
+        {
+          "component": "coherence",
+          "score_a": 1.0,
+          "score_b": 1.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.1
+        },
+        {
+          "component": "awards_other",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.05
+        }
+      ],
+      "top_3_reasons": [
+        {
+          "rank": 1,
+          "component": "education",
+          "delta": 0.475,
+          "weighted_impact": 0.1425,
+          "reason": "Candidate A has higher tier university (Berkeley vs CALIFORNIA STATE UNIVERSITY, LOS ANGELES), better GPA (38 vs None)",
+          "evidence_a": [
+            "B.S. in Computer Science from Berkeley (GPA: 38)"
+          ],
+          "evidence_b": [
+            "Bachelor's Degree in Computer Science from CALIFORNIA STATE UNIVERSITY, LOS ANGELES"
+          ]
+        },
+        {
+          "rank": 2,
+          "component": "experience",
+          "delta": -0.1725,
+          "weighted_impact": -0.0517,
+          "reason": "Candidate A has more experience (0 months vs 0 months)",
+          "evidence_a": [
+            "Junior DevOps Engineer at Putour (0 months) - Software Development",
+            "Middleware Administrator at Helfer (0 months) - Banking"
+          ],
+          "evidence_b": [
+            "DEVOPS ENGINEER at None (0 months)"
+          ]
+        },
+        {
+          "rank": 3,
+          "component": "publications",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has higher quality publications (better IF or author positions)",
+          "evidence_a": [
+            "No evidence available"
+          ],
+          "evidence_b": [
+            "No evidence available"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_a": "Azure DevOps engineer",
+      "candidate_b": "Rerr Ratinson",
+      "final_score_a": 0.452,
+      "final_score_b": 0.412,
+      "score_delta": 0.04,
+      "grade_a": "B",
+      "grade_b": "B",
+      "summary": "Azure DevOps engineer scores 0.0400 points higher than Rerr Ratinson",
+      "component_deltas": [
+        {
+          "component": "education",
+          "score_a": 0.24,
+          "score_b": 0.12,
+          "delta": 0.12,
+          "weighted_delta": 0.036,
+          "weight": 0.3
+        },
+        {
+          "component": "experience",
+          "score_a": 1.0,
+          "score_b": 1.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.3
+        },
+        {
+          "component": "publications",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.25
+        },
+        {
+          "component": "coherence",
+          "score_a": 1.0,
+          "score_b": 1.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.1
+        },
+        {
+          "component": "awards_other",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.05
+        }
+      ],
+      "top_3_reasons": [
+        {
+          "rank": 1,
+          "component": "education",
+          "delta": 0.12,
+          "weighted_impact": 0.036,
+          "reason": "Candidate A has higher degree level (Bachelor of Science vs None)",
+          "evidence_a": [
+            "Bachelor of Science in Computer Science from Resume Worded University"
+          ],
+          "evidence_b": [
+            "None in None from University of Richmond"
+          ]
+        },
+        {
+          "rank": 2,
+          "component": "experience",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has more experience (0 months vs 0 months)",
+          "evidence_a": [
+            "Azure DevOps Engineer at Resume Worded (0 months)",
+            "Linux Administrator at Growthsi (0 months)",
+            "Build and Release Engineer at Resume Worded Exciting Company (0 months)"
+          ],
+          "evidence_b": [
+            "Sr.-DevOps Engineer at Dufour (0 months)",
+            "DevOps Engineer at Lessacd (0 months)",
+            "DevOps Engineer at Stracke (0 months)"
+          ]
+        },
+        {
+          "rank": 3,
+          "component": "publications",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has higher quality publications (better IF or author positions)",
+          "evidence_a": [
+            "No evidence available"
+          ],
+          "evidence_b": [
+            "No evidence available"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_a": "Azure DevOps engineer",
+      "candidate_b": null,
+      "final_score_a": 0.452,
+      "final_score_b": 0.408,
+      "score_delta": 0.044,
+      "grade_a": "B",
+      "grade_b": "B",
+      "summary": "Azure DevOps engineer scores 0.0440 points higher than None",
+      "component_deltas": [
+        {
+          "component": "experience",
+          "score_a": 1.0,
+          "score_b": 0.92,
+          "delta": 0.08,
+          "weighted_delta": 0.024,
+          "weight": 0.3
+        },
+        {
+          "component": "education",
+          "score_a": 0.24,
+          "score_b": 0.24,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.3
+        },
+        {
+          "component": "publications",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.25
+        },
+        {
+          "component": "coherence",
+          "score_a": 1.0,
+          "score_b": 1.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.1
+        },
+        {
+          "component": "awards_other",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.05
+        }
+      ],
+      "top_3_reasons": [
+        {
+          "rank": 1,
+          "component": "experience",
+          "delta": 0.08,
+          "weighted_impact": 0.024,
+          "reason": "Candidate A has more experience (0 months vs 0 months)",
+          "evidence_a": [
+            "Azure DevOps Engineer at Resume Worded (0 months)",
+            "Linux Administrator at Growthsi (0 months)",
+            "Build and Release Engineer at Resume Worded Exciting Company (0 months)"
+          ],
+          "evidence_b": [
+            "DEVOPS ENGINEER at None (0 months)"
+          ]
+        },
+        {
+          "rank": 2,
+          "component": "education",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Better overall education credentials",
+          "evidence_a": [
+            "Bachelor of Science in Computer Science from Resume Worded University"
+          ],
+          "evidence_b": [
+            "Bachelor's Degree in Computer Science from CALIFORNIA STATE UNIVERSITY, LOS ANGELES"
+          ]
+        },
+        {
+          "rank": 3,
+          "component": "publications",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has higher quality publications (better IF or author positions)",
+          "evidence_a": [
+            "No evidence available"
+          ],
+          "evidence_b": [
+            "No evidence available"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_a": "Azure DevOps engineer",
+      "candidate_b": null,
+      "final_score_a": 0.452,
+      "final_score_b": 0.408,
+      "score_delta": 0.044,
+      "grade_a": "B",
+      "grade_b": "B",
+      "summary": "Azure DevOps engineer scores 0.0440 points higher than None",
+      "component_deltas": [
+        {
+          "component": "experience",
+          "score_a": 1.0,
+          "score_b": 0.92,
+          "delta": 0.08,
+          "weighted_delta": 0.024,
+          "weight": 0.3
+        },
+        {
+          "component": "education",
+          "score_a": 0.24,
+          "score_b": 0.24,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.3
+        },
+        {
+          "component": "publications",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.25
+        },
+        {
+          "component": "coherence",
+          "score_a": 1.0,
+          "score_b": 1.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.1
+        },
+        {
+          "component": "awards_other",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.05
+        }
+      ],
+      "top_3_reasons": [
+        {
+          "rank": 1,
+          "component": "experience",
+          "delta": 0.08,
+          "weighted_impact": 0.024,
+          "reason": "Candidate A has more experience (0 months vs 0 months)",
+          "evidence_a": [
+            "Azure DevOps Engineer at Resume Worded (0 months)",
+            "Linux Administrator at Growthsi (0 months)",
+            "Build and Release Engineer at Resume Worded Exciting Company (0 months)"
+          ],
+          "evidence_b": [
+            "DEVOPS ENGINEER at None (0 months)"
+          ]
+        },
+        {
+          "rank": 2,
+          "component": "education",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Better overall education credentials",
+          "evidence_a": [
+            "Bachelor of Science in Computer Science from Resume Worded University"
+          ],
+          "evidence_b": [
+            "Bachelor's Degree in Computer Science from CALIFORNIA STATE UNIVERSITY, LOS ANGELES"
+          ]
+        },
+        {
+          "rank": 3,
+          "component": "publications",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has higher quality publications (better IF or author positions)",
+          "evidence_a": [
+            "No evidence available"
+          ],
+          "evidence_b": [
+            "No evidence available"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_a": "Rerr Ratinson",
+      "candidate_b": null,
+      "final_score_a": 0.412,
+      "final_score_b": 0.408,
+      "score_delta": 0.004,
+      "grade_a": "B",
+      "grade_b": "B",
+      "summary": "Rerr Ratinson scores 0.0040 points higher than None",
+      "component_deltas": [
+        {
+          "component": "education",
+          "score_a": 0.12,
+          "score_b": 0.24,
+          "delta": -0.12,
+          "weighted_delta": -0.036,
+          "weight": 0.3
+        },
+        {
+          "component": "experience",
+          "score_a": 1.0,
+          "score_b": 0.92,
+          "delta": 0.08,
+          "weighted_delta": 0.024,
+          "weight": 0.3
+        },
+        {
+          "component": "publications",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.25
+        },
+        {
+          "component": "coherence",
+          "score_a": 1.0,
+          "score_b": 1.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.1
+        },
+        {
+          "component": "awards_other",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.05
+        }
+      ],
+      "top_3_reasons": [
+        {
+          "rank": 1,
+          "component": "education",
+          "delta": -0.12,
+          "weighted_impact": -0.036,
+          "reason": "Better overall education credentials",
+          "evidence_a": [
+            "None in None from University of Richmond"
+          ],
+          "evidence_b": [
+            "Bachelor's Degree in Computer Science from CALIFORNIA STATE UNIVERSITY, LOS ANGELES"
+          ]
+        },
+        {
+          "rank": 2,
+          "component": "experience",
+          "delta": 0.08,
+          "weighted_impact": 0.024,
+          "reason": "Candidate A has more experience (0 months vs 0 months)",
+          "evidence_a": [
+            "Sr.-DevOps Engineer at Dufour (0 months)",
+            "DevOps Engineer at Lessacd (0 months)",
+            "DevOps Engineer at Stracke (0 months)"
+          ],
+          "evidence_b": [
+            "DEVOPS ENGINEER at None (0 months)"
+          ]
+        },
+        {
+          "rank": 3,
+          "component": "publications",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has higher quality publications (better IF or author positions)",
+          "evidence_a": [
+            "No evidence available"
+          ],
+          "evidence_b": [
+            "No evidence available"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_a": "Rerr Ratinson",
+      "candidate_b": null,
+      "final_score_a": 0.412,
+      "final_score_b": 0.408,
+      "score_delta": 0.004,
+      "grade_a": "B",
+      "grade_b": "B",
+      "summary": "Rerr Ratinson scores 0.0040 points higher than None",
+      "component_deltas": [
+        {
+          "component": "education",
+          "score_a": 0.12,
+          "score_b": 0.24,
+          "delta": -0.12,
+          "weighted_delta": -0.036,
+          "weight": 0.3
+        },
+        {
+          "component": "experience",
+          "score_a": 1.0,
+          "score_b": 0.92,
+          "delta": 0.08,
+          "weighted_delta": 0.024,
+          "weight": 0.3
+        },
+        {
+          "component": "publications",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.25
+        },
+        {
+          "component": "coherence",
+          "score_a": 1.0,
+          "score_b": 1.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.1
+        },
+        {
+          "component": "awards_other",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.05
+        }
+      ],
+      "top_3_reasons": [
+        {
+          "rank": 1,
+          "component": "education",
+          "delta": -0.12,
+          "weighted_impact": -0.036,
+          "reason": "Better overall education credentials",
+          "evidence_a": [
+            "None in None from University of Richmond"
+          ],
+          "evidence_b": [
+            "Bachelor's Degree in Computer Science from CALIFORNIA STATE UNIVERSITY, LOS ANGELES"
+          ]
+        },
+        {
+          "rank": 2,
+          "component": "experience",
+          "delta": 0.08,
+          "weighted_impact": 0.024,
+          "reason": "Candidate A has more experience (0 months vs 0 months)",
+          "evidence_a": [
+            "Sr.-DevOps Engineer at Dufour (0 months)",
+            "DevOps Engineer at Lessacd (0 months)",
+            "DevOps Engineer at Stracke (0 months)"
+          ],
+          "evidence_b": [
+            "DEVOPS ENGINEER at None (0 months)"
+          ]
+        },
+        {
+          "rank": 3,
+          "component": "publications",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has higher quality publications (better IF or author positions)",
+          "evidence_a": [
+            "No evidence available"
+          ],
+          "evidence_b": [
+            "No evidence available"
+          ]
+        }
+      ]
+    },
+    {
+      "candidate_a": null,
+      "candidate_b": null,
+      "final_score_a": 0.408,
+      "final_score_b": 0.408,
+      "score_delta": 0.0,
+      "grade_a": "B",
+      "grade_b": "B",
+      "summary": "None scores 0.0000 points higher than None",
+      "component_deltas": [
+        {
+          "component": "education",
+          "score_a": 0.24,
+          "score_b": 0.24,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.3
+        },
+        {
+          "component": "experience",
+          "score_a": 0.92,
+          "score_b": 0.92,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.3
+        },
+        {
+          "component": "publications",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.25
+        },
+        {
+          "component": "coherence",
+          "score_a": 1.0,
+          "score_b": 1.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.1
+        },
+        {
+          "component": "awards_other",
+          "score_a": 0.0,
+          "score_b": 0.0,
+          "delta": 0.0,
+          "weighted_delta": 0.0,
+          "weight": 0.05
+        }
+      ],
+      "top_3_reasons": [
+        {
+          "rank": 1,
+          "component": "education",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Better overall education credentials",
+          "evidence_a": [
+            "Bachelor's Degree in Computer Science from CALIFORNIA STATE UNIVERSITY, LOS ANGELES"
+          ],
+          "evidence_b": [
+            "Bachelor's Degree in Computer Science from CALIFORNIA STATE UNIVERSITY, LOS ANGELES"
+          ]
+        },
+        {
+          "rank": 2,
+          "component": "experience",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has more experience (0 months vs 0 months)",
+          "evidence_a": [
+            "DEVOPS ENGINEER at None (0 months)"
+          ],
+          "evidence_b": [
+            "DEVOPS ENGINEER at None (0 months)"
+          ]
+        },
+        {
+          "rank": 3,
+          "component": "publications",
+          "delta": 0.0,
+          "weighted_impact": 0.0,
+          "reason": "Candidate A has higher quality publications (better IF or author positions)",
+          "evidence_a": [
+            "No evidence available"
+          ],
+          "evidence_b": [
+            "No evidence available"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_candidates": 53
+}
